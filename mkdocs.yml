@@ -1,0 +1,57 @@
+site_name: GEST
+
+theme:
+  name: material
+  palette:
+    primary: purple
+  features:
+    - navigation.instant
+
+nav:
+  - GEST: index.md
+
+extra_css:
+    - css/colors.css
+    - css/custom.css
+    - css/termynal.css
+
+extra_javascript:
+    - js/config.js
+    - js/custom.js
+    - js/links.js
+    - js/tables.js
+    - js/termynal.js
+    - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+    - https://polyfill.io/v3/polyfill.min.js?features=es6
+    - https://unpkg.com/mermaid@8.4.6/dist/mermaid.min.js
+    - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - codehilite
+  - extra
+  - extra
+  - footnotes
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.mark
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.tilde
+  - toc:
+      permalink: true
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown_include.include:
+      base_path: docs
+  - toc:
+      permalink: 🔗
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
