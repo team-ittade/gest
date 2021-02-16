@@ -1,0 +1,49 @@
+# Ejercicios tema 1
+
+## Ejercicio 1
+
+Nos dan pérdidas y ganancias, pero yo quiero el coste.
+
+|Pérdidas y ganancias||
+|--|--|
+|Importe neto cifra de negocios|610.000|
+|Consumo escuela|-6.000|
+|Consumo tienda|-56.000|
+|Consumo bar|-36.000|
+|Personal|-182.000|
+|Servicios exteriores|-34.000|
+|Amortizaciones|-46.000|
+|Resultado|250.000|
+
+En su enunciado tiene desglosados las `amortizaciones`, las `compras de mercaderías`, los `sueldos`, los `servicios exteriores` y los `ingresos`.
+
+|Amortización/Elemento|Escuela|Tienda|Bar|
+|--|--|--|--|
+|Edificio|10.000|15.000|12.000|
+|Elementos de transporte|700|2.000|1.300|
+|Maquinaria|2.200|1.000|300|
+|Otros|500|600|400|
+|46.000|13.400|18.600|14.000|
+
+!!! note
+    `Servicios exteriores` es la luz, el agua, etc.
+
+|Compra de mercaderías|Escuela|Tienda|Bar|
+|--|--|--|--|
+|103.000|7.300|57.000|39.000|
+
+:warning: Trampa: Las compras de mercaderías no nos sirven. Las compras no es un gasto. Lo que es un gasto es las `compras ± la variación de existencias`, que es el **consumo**.
+
+|Sueldos y salarios|Escuela|Tienda|Bar|
+|--|--|--|--|
+|182.000|60.000|32.000|90.000|
+
+|Servicios exteriores|Escuela|Tienda|Bar|
+|--|--|--|--|
+|34.000|8.000|12.000|14.000|
+
+||Ingresos|
+|--|--|
+|Ventas tienda|80.000|
+|Ventas bar|320.000|
+|Prestación de servicios|210.000|

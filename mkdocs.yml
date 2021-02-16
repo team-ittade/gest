@@ -8,7 +8,10 @@ theme:
     - navigation.instant
 
 nav:
-  - GEST: index.md
+  - Evaluación: index.md
+  - Tema 1:
+      Teoría: tema-1/index.md
+      Ejercicios: tema-1/ejercicios.md
 
 extra_css:
     - css/colors.css
