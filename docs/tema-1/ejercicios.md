@@ -47,3 +47,32 @@ En su enunciado tiene desglosados las `amortizaciones`, las `compras de mercader
 |Ventas tienda|80.000|
 |Ventas bar|320.000|
 |Prestación de servicios|210.000|
+
+Podemos descomponer el resultado de pérdidas y ganancias en función de las diferentes actividades que se realizan y calcular el porcentaje en cada una de ellas:
+
+|Total gastos/ingresos|Escuela|Tienda|Bar|
+|--|--:|--:|--:|
+|Ingresos|210.000|80.000|320.000
+|Gastos|-87.400|-118.600|-154.000|
+|Resultado|122.600|-38.600|166.000|
+|Margen %|140,27%|-32,54%|107,79%|
+
+## Ejercicio 2
+
+Clasificar los conceptos
+
+||Gasto|Coste|Inversión|Pago|
+|--|:--:|:--:|:--:|:--:|
+|Dividendos satisfechos a los accionistas||||:material-check:|
+|Pago de los sueldos operarios de fábrica|:material-check:|:material-check:||:material-check:|
+|Pérdida de materias primas por incendio|:material-check:||||
+|Impuesto de sociedades|:material-check:|||:material-check:|
+|Pago compra maquinaria|||:material-check:|:material-check:|
+|Amortización de la maquinaria|:material-check:|:material-check:|||
+|Curso de formación para los operarios con el objetivo de conocer el funcionamiento de la nueva maquinaria adquirida|:material-check:|:material-check:||:material-check:|
+|Pago del impuesto IVA||||:material-check:|
+|Utilización de las materias primas adquiridas al contado en el ejercicio anterior.|:material-check:|:material-check:|||
+|Lotería regalada a los trabajadores por Navidad|:material-check:|||:material-check:|
+|Impuesto por actividades económicas|:material-check:|||:material-check:|
+|Pago y devengo de intereses|:material-check:|||:material-check:|
+|Pago a comerciales|:material-check:|||:material-check:|
