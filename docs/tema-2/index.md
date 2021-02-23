@@ -28,7 +28,7 @@
 
 **Punto muerto o umbral de rentabilidad:** punto (o unidad vendida) en la que la cifra de ventas es capaz de absorber todos los costes (fijos y variables).
 
-$$U P_V = UC_V+C_F$$
+$$U P_V = U C_V+C_F \rightarrow Umbral=\dfrac{C_F}{P_V-C_V}$$
 
 - $U:$ unidades vendidas
 - $P_V:$ precio de venta unitario
@@ -45,6 +45,9 @@ Hipótesis:
 - Los costes de los factores de producción no varían respecto a la producción.
 - La técnica y la política económica de la empresa (y en conjunto la eficiencia productiva) no varían.
 
+!!! warning "Otros tipos de costes"
+    Normalmente nos encontramos con costes híbridos entre los fijos y los variables (semifijos y semivariables).
+
 #### Margen de seguridad
 
 Es la diferencia entre el punto muerto y el volumen de ventas alcanzado.
@@ -52,3 +55,16 @@ Es la diferencia entre el punto muerto y el volumen de ventas alcanzado.
 Es la reducción que podemos soportar sobre las ventas antes de tener pérdidas.
 
 Se suele utilizar como indicador el **ratio beneficio - margen de seguridad**
+
+#### Rango relevante
+
+Rango de producción para el que el estudio es válido. Es decir, rango en el que las hipótesis del modelo se cumplen y por lo tanto sus conclusiones son válidas.
+
+## Otros tipos de costes menos importantes
+
+- **Costes históricos:** son costes reales, ya realizados. No son válidos para tomar decisiones de forma anticipada.
+- **Costes actuales:** si se han pactado precios con los proveedores es posible saber el precio actual de una determinada materia prima o servicio. La empresa podrá conocer de antemano los costes, pudiendo hacer estimaciones con una gran fiabilidad.
+- **Costes estándares:**
+    - **Costes ideales:** los que se alcanzarían con la máxima producción con el mínimo coste.
+    - **Costes normales:** se tiene en cuenta un nivel normal de actividad.
+    - **Costes actuales:** en función de lo que ha sucedido en el periodo o ejercicio actual.
