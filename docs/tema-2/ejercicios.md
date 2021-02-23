@@ -85,3 +85,29 @@ $umbral = \dfrac{CF}{P_V-C_V}=50.000=\dfrac{18.000.000}{P_V-C_V}\rightarrow P_V-
 $beneficio = 110.000.000 P_V - (18.000.000 + (P_V-0.2)110.000.000$
 
 $beneficio = 0.2\cdot 110.000.000 - 18.000.000 = 4.000.000$
+
+## `Ejercicio 9 - Clasificación directos e indirectos`
+
+Clasificar los costes ^^de una consultoría^^ en `directos` e `indirectos`.
+
+|Concepto|Tipo|
+|--|--|
+|Consumos de material de oficina e informático|`Indirecto`|
+|Sueldos y seguridad social del personal de administración y dirección|`Indirecto`|
+|Dietas de los consultores en sus visitas a los clientes|`Directo`|
+|Descuentos comerciales concedidos a clientes|**No es un coste, es menor importe de venta** {: .red}|
+|Dietas del director general|`Indirecto`|
+|Costes de locomoción|`Indirecto`|
+|Gas|`Indirecto`|
+|Subcontratación de estudios a terceros|`Indirecto`|
+|Publicidad|`Directo` / `Indirecto`, depende de si el coste se identifica co nun producto directamente. Normalmente directo.|
+|Gastos financieros|`Indirecto`|
+|Electricidad|`Indirecto`|
+|Teléfono|`Indirecto`|
+|Página Web|`Indirecto`|
+|Servicios de prensa|`Indirecto`|
+|Sueldos y seguridad social de los consultores|`Directo`|
+|Sueldos por horas extras de los consultores|`Directo`|
+|Costes varios|`Indirecto`|
+|Alquiler|`Indirecto`|
+|Amortización ordenadores|`Indirecto`|

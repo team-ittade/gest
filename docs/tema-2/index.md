@@ -62,9 +62,64 @@ Rango de producción para el que el estudio es válido. Es decir, rango en el qu
 
 ## Otros tipos de costes menos importantes
 
+### Estándares, históricos y actuales
+
 - **Costes históricos:** son costes reales, ya realizados. No son válidos para tomar decisiones de forma anticipada.
 - **Costes actuales:** si se han pactado precios con los proveedores es posible saber el precio actual de una determinada materia prima o servicio. La empresa podrá conocer de antemano los costes, pudiendo hacer estimaciones con una gran fiabilidad.
 - **Costes estándares:**
     - **Costes ideales:** los que se alcanzarían con la máxima producción con el mínimo coste.
     - **Costes normales:** se tiene en cuenta un nivel normal de actividad.
     - **Costes actuales:** en función de lo que ha sucedido en el periodo o ejercicio actual.
+
+### De actividad y de subactividad
+
+- **Costes de actividad:** asociados a la producción normal de la empresa.
+- **Costes de subactividad:** asociados a una producción inferior a la normal, por causas como huelgas o descenso brusco en las ventas.
+
+### Otros
+
+- **Costes externos.**
+- **Costes internos:** amortizaciones o variación de existencias.
+- **Costes de oportunidad:** beneficios a los que se renuncia cuando se incurre en un coste.
+- **Costes relevantes y costes irrelevantes.**
+- **Costes controlables y costes no controlables.**
+
+## Materiales
+
+Activos almacenables que la empresa adquiere para incorporarlos al proceso productivo. Servirán fundamentalmente para la fabricación de productos o para posibilitar la prestación de servicios, aunque también pueden ser utilizados en tareas de mantenimiento y reparación.
+
+!!! bug
+    A partir de aquí pasa las diapositivas como si el curso acaba al final de la hora. Dice que no es importante.
+
+    El icono 📉 significa que no es importante.
+
+### 📉 Tipos de materiales
+
+??? abstract "📉 No importante"
+
+  - Materias primas
+  - Materias auxiliares
+  - Productos en curso
+  - Subproductos
+  - Otros aprovisionamientos
+  - Residuos
+  - Materiales recuperados
+  - Envases y embalajes
+
+### 📉 Valoración inicial
+
+- Los bienes y servicios comprendidos en las existencias se valorarán por su coste, ya sea el precio de adquisición o el coste de producción.
+- Los impuestos se incluirán si no son recuperables directamente de la Hacienda Pública.
+- Las existencias que necesiten más de un año para estar en codiciones de ser vendidas se incluirán.
+
+### 📉 Precio de adquisición
+
+### 📉 Inventarios periódicos
+
+El recuento de existencias se realizan de forma periódica al final del periodo.
+
+### 📉 Inventarios permanentes
+
+Los movimientos se registran de forma instantánea. Es lo más común ahora por que la tecnología lo permite.
+
+### 📉 Tipos de aprovisionamiento
