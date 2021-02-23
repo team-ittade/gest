@@ -40,3 +40,15 @@ Hipótesis:
 - La cantidad de productos vendidos es la misma que productos fabricados (**no hay variación de existencias**)
 - El precio de venta no varía durante el periodo
 - La cantidad de productos vendidos no afecta a ningún otro facctor (como el precio de venta)
+- El análisis se realiza a corto plazo - permite determinar costes fijos y variables.
+- Se asume **proporcionalidad lineal** de los costes variables.
+- Los costes de los factores de producción no varían respecto a la producción.
+- La técnica y la política económica de la empresa (y en conjunto la eficiencia productiva) no varían.
+
+#### Margen de seguridad
+
+Es la diferencia entre el punto muerto y el volumen de ventas alcanzado.
+
+Es la reducción que podemos soportar sobre las ventas antes de tener pérdidas.
+
+Se suele utilizar como indicador el **ratio beneficio - margen de seguridad**

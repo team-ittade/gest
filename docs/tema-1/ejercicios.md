@@ -1,6 +1,6 @@
 # Ejercicios tema 1
 
-## Ejercicio 1
+## `Ejercicio 1`
 
 Nos dan pérdidas y ganancias, pero yo quiero el coste.
 
@@ -57,7 +57,7 @@ Podemos descomponer el resultado de pérdidas y ganancias en función de las dif
 |Resultado|122.600|-38.600|166.000|
 |Margen %|140,27%|-32,54%|107,79%|
 
-## Ejercicio 2
+## `Ejercicio 2`
 
 Clasificar los conceptos
 
