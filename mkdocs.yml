@@ -12,6 +12,10 @@ nav:
   - Tema 1:
       Teoría: tema-1/index.md
       Ejercicios: tema-1/ejercicios.md
+      Kahoot del 2021-02-18: tema-1/kahoot.md
+  - Tema 2:
+      Teoría: tema-2/index.md
+
 
 extra_css:
     - css/colors.css
