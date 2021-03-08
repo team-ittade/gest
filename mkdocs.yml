@@ -17,6 +17,8 @@ nav:
       Teoría: tema-2/index.md
       Ejercicios: tema-2/ejercicios.md
 
+repo_name: team-ittade/gest
+repo_url: https://github.com/team-ittade/gest
 
 extra_css:
     - css/colors.css
@@ -63,3 +65,8 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+
+plugins:
+  - git-revision-date-localized:
+      type: date
+      fallback_to_build_date: true
