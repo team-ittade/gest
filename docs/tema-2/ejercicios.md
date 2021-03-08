@@ -238,6 +238,24 @@ El consumo unitario de materia prima para cada producto es:
 |--|--|
 |$E_I=80\cdot1.005=80.400$|$E_F=0$|
 |Producción terminada $=825\cdot1.350=1.113.750$|Coste industrial de ventas $=905\cdot1.319,50=1.194.150$|
-||$CMP=\dfrac{80.400+1.113.450}{80+825}=1.319.50$|
+||$CMP=\dfrac{80.400+1.113.450}{80+825}=1.319,50$|
 
 ==Inventario permanente producto J (CMP)==
+
+|||
+|--|--|
+|$E_I=10\cdot400=4.000$|$E_F=0$|
+|Producción terminada $=115\cdot1.400=161.000$|Coste industrial de ventas $=125\cdot1.320=165.000$|
+||$CMP=\dfrac{4.000+161.000}{10+115}=1.320$|
+
+### Cálculo del resultado
+
+|Concepto|Producto H|Producto J|Total|
+|--|--:|--:|--:|
+|+ Precio venta unitario<br>- Coste industrial venta unitario|1.500,00<br>-1.319,50|1.775,00<br>-1.320,00|
+|= **Margen unitario**|180,50|455|
+|+ Ventas<br>- Coste ventas|$905\cdot1.500=1.357.500$<br>- 1.194.150|$125\cdot1.775=221.875$<br>- 165.000|1.579.375<br>- 1.359.150|
+|= **Resultado de la contabilidad interna/de costes**|163.350|56.875|220.225
+
+!!! bug "Últimos cálculos"
+    La cuenta de pérdidas y ganancias la hace en una esquina de un excel en sucio, ni siquiera me he molestado en incluirlo aquí. Lo da en el vídeo del día `2021-03-03` a las `10:46`.
