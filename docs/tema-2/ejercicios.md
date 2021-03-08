@@ -145,3 +145,38 @@ Datos:
 - En cuanto a servicios exteriores se pagan `601.250€` (el `20%` son oficinas y el resto la fábrica).
 
 **Determine el precio de venta de los productos si la empresa desea establecer un margen industrial del 50%.**
+
+|Costes directos|Normal|Magnum|
+|--|--|--|
+|Materia prima|$0.8\cdot0.2=0.16$|$0.8\cdot0.425=0.34$|
+|Mano de obra directa ($8/60=0.133$)|$0.1333\cdot1.2=0.16$|$0.1333\cdot1.5=1.2$|
+|Amortización de maquinaria|$480.000/125.000=3.84$|$360.000/60.000=6$|
+|**Total**|$4.16$|$6.54$|
+
+|Costes indirectos|Normal|Magnum|
+|--|--|--|
+|Amortización maquinaria de fundición|$2\cdot0.2=0.4$|$2\cdot0.425=0.85$
+|Alquiler de edificio|$1\cdot2.8=2.8$|$1\cdot2.8=2.8$|
+|Suministros|$1\cdot2.6=2.6$|$1\cdot2.6=2.6$|
+|**Total**|$5.8$|$6.25$|
+
+Amortización máquina de fundición
+
+- Total Kg procesados: $125.000 \cdot 0.2 + 60.000 \cdot 0.425 = 50.500$
+- Amortización por Kg: $101.000/50.500 = 2$€/Kg
+
+Alquiler de edificio
+
+- Total unidades: $185.000$
+- Alquiler de la fábrica: $647.500 \cdot 0.8=518.000$
+- Alquiler por unidad: $518.000/185.000=2.8$
+
+Suministros
+
+- Total unidades: $185.000$
+- Suministros fábrica: $601.250 \cdot 0.8=481.000$
+- Suministros por unidad: $481.000/185.000=2.6$
+
+||**Normal**|**Magnum**|
+|--|--|--|
+|**Precios**|$9.96\cdot1.5=14.94$|$12.79\cdot1.5=19.185$|
