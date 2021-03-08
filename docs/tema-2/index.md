@@ -121,5 +121,3 @@ El recuento de existencias se realizan de forma periódica al final del periodo.
 ### 📉 Inventarios permanentes
 
 Los movimientos se registran de forma instantánea. Es lo más común ahora por que la tecnología lo permite.
-
-### 📉 Tipos de aprovisionamiento

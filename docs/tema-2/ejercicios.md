@@ -111,3 +111,37 @@ Clasificar los costes ^^de una consultoría^^ en `directos` e `indirectos`.
 |Costes varios|`Indirecto`|
 |Alquiler|`Indirecto`|
 |Amortización ordenadores|`Indirecto`|
+
+## `Ejercicio 10 - Imputación de costes indirectos`
+
+Determinar el precio de venta de cada lavado si los accionistas exigen un margen mínimo del 10% de las ventas.
+
+!!! note
+    - El agua se mete como `coste indirecto` porque sabemos cuánto agua consume cada lavado exactamente.
+    - Las amortizaciones suelen ser `coste indirecto`.
+
+|Concepto|Coste por lavado|
+|--|--|
+|Costes Directos Materiales|$0.3+0.6+0.2=1.1$|
+|Costes Directos Mano de obra|$(22.000+8.000)/1.500*0.5=10$|
+|Costes Indirectos|$(2.200+4.300+8.700+6.000)/2.800=7.57$|
+|**Coste por lavado**|18.67|
+|**Precio de venta**|18.67*1.1=20.54|
+
+## `Ejercicio 11 - Imputación de costes indirectos`
+
+La empresa fabrica botellas para envasar vino en un **centro único**.
+
+Datos:
+
+- Se usa una máquina que funde el vidrio, otra que hace botellas normales y otra botellas magnum.
+- Se han fabricado `125.000` botellas normales y `60.000` magnum.
+- La botella normal lleva `200g` de vidrio y la magnum `245g`.
+- El precio del vidrio es de `0.8€/Kg`.
+- El coste de la mano de obra es de `8€/`h.
+- La botella normal tarda `1.2` minutos en hacerse y la mangum `0.3` minutos más.
+- Se pagan `647.500€` por alquileres (el `20%` son oficinas y el resto la fábrica).
+- La máquina de fundición se amortiza en `101.000€`, la máquina que hace botellas normales `480.000€` y la que hace botellas magnum `360.000€`.
+- En cuanto a servicios exteriores se pagan `601.250€` (el `20%` son oficinas y el resto la fábrica).
+
+**Determine el precio de venta de los productos si la empresa desea establecer un margen industrial del 50%.**
