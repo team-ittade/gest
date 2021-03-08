@@ -180,3 +180,64 @@ Suministros
 ||**Normal**|**Magnum**|
 |--|--|--|
 |**Precios**|$9.96\cdot1.5=14.94$|$12.79\cdot1.5=19.185$|
+
+## `Ejercicio 12 - Margen industrial`
+
+**Se pide:**
+
+1. Fichas de inventarios, consumo y valor de las existencias finales de materias primas.
+2. Costes unitarios de materiales, transformación y producción.
+3. Coste de la producción terminada y de la producción vendida.
+4. Cuadro de márgenes y resultados analíticos y cuenta de Pérdidas y Ganancias.
+
+### Fichas de inventarios
+
+- He tenido que fabricar 825 unidades de H (he vendido 905, no hay finales y tengo de iniciales 80)
+- He tenido que fabricar 115 unidades de J (he vendido 125, no hay finales y tengo de iniciales 10).
+
+==Inventario permanente materias primas X (FIFO)==
+
+|||
+|--|--|
+|$E_I=500\cdot20=10.000$|$E_F=200\cdot50=10.000$|
+|$C=1.500\cdot50=75.000$|**Consumo** $=500\cdot20+1.300\cdot50=75.000$ {: .red}|
+
+==Inventario permanente materias primas Y (FIFO)==
+
+|||
+|--|--|
+|$E_I=30\cdot200=6.000$|$E_F=100\cdot160=16.000$|
+|$C=150\cdot160=24.000$|**Consumo** $=30\cdot200+50\cdot160=14.000$ {: .red}|
+
+### Costes unitarios
+
+Calcular la producción de cada tipo de producto
+
+- Producción = Existencia final + Ventas - Existencia inicial
+- Producción H $= 0+905-80=825$ uds.
+- Producción J $=0 + 125 - 10$ uds
+
+El consumo unitario de materia prima para cada producto es:
+
+- H: $1.800/825=2.18$ Kg/ud
+- J: $80/115=0.696$ Kg/ud
+
+|Concepto|Producto H|Producto J|
+|--|--:|--:|
+|+ Coste materia prima<br>+ Coste transformación|75.000<br>1.038.750|14.000<br>147.000|
+|= **Coste industrial o de producción**|1.113.750|161.000|
+|Producción|825|115|
+|+ Coste unitario materias primas<br>+ Coste unitario transformación|$75.000/825=90,90$<br>$1.038.750/825=1.259,10$|$14.000/115=121,74$<br>$147.000/115=1.278,26$|
+|= **Coste unitario industrial**|$1.113.750/825=1.350$|$161.000/115=1.400$|
+
+### Inventarios permanentes
+
+==Inventario permanente producto H (CMP)==
+
+|||
+|--|--|
+|$E_I=80\cdot1.005=80.400$|$E_F=0$|
+|Producción terminada $=825\cdot1.350=1.113.750$|Coste industrial de ventas $=905\cdot1.319,50=1.194.150$|
+||$CMP=\dfrac{80.400+1.113.450}{80+825}=1.319.50$|
+
+==Inventario permanente producto J (CMP)==
