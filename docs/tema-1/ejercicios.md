@@ -32,7 +32,7 @@ En su enunciado tiene desglosados las `amortizaciones`, las `compras de mercader
 |--|--|--|--|
 |103.000|7.300|57.000|39.000|
 
-:warning: Trampa: Las compras de mercaderías no nos sirven. Las compras no es un gasto. Lo que es un gasto es las `compras ± la variación de existencias`, que es el **consumo**.
+:warning: Trampa: Las compras de mercaderías no nos sirven. Las compras no es un gasto. Lo que es un gasto es las `compras ± la variación de existencias`, que es el **consumo**. <span class="red">**Las compras no son un coste.**</span>
 
 |Sueldos y salarios|Escuela|Tienda|Bar|
 |--|--|--|--|
@@ -56,6 +56,8 @@ Podemos descomponer el resultado de pérdidas y ganancias en función de las dif
 |Gastos|-87.400|-118.600|-154.000|
 |Resultado|122.600|-38.600|166.000|
 |Margen %|140,27%|-32,54%|107,79%|
+
+$margen=\dfrac{resultado}{gastos}$
 
 ## `Ejercicio 2`
 
