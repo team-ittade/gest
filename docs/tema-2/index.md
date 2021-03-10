@@ -24,7 +24,7 @@
 - **Costes semifijos:** son fijos en algunos tramos de la producción.
 - **Costes semivariables:** tienen parte fija y parte variable.
 
-### Análisis coste/volumen/beneficio
+## Análisis coste/volumen/beneficio
 
 **Punto muerto o umbral de rentabilidad:** punto (o unidad vendida) en la que la cifra de ventas es capaz de absorber todos los costes (fijos y variables).
 
@@ -39,7 +39,7 @@ Hipótesis:
 
 - La cantidad de productos vendidos es la misma que productos fabricados (**no hay variación de existencias**)
 - El precio de venta no varía durante el periodo
-- La cantidad de productos vendidos no afecta a ningún otro facctor (como el precio de venta)
+- La cantidad de productos vendidos no afecta a ningún otro factor (como el precio de venta)
 - El análisis se realiza a corto plazo - permite determinar costes fijos y variables.
 - Se asume **proporcionalidad lineal** de los costes variables.
 - Los costes de los factores de producción no varían respecto a la producción.
@@ -48,7 +48,7 @@ Hipótesis:
 !!! warning "Otros tipos de costes"
     Normalmente nos encontramos con costes híbridos entre los fijos y los variables (semifijos y semivariables).
 
-#### Margen de seguridad
+### Margen de seguridad
 
 Es la diferencia entre el punto muerto y el volumen de ventas alcanzado.
 
@@ -56,7 +56,7 @@ Es la reducción que podemos soportar sobre las ventas antes de tener pérdidas.
 
 Se suele utilizar como indicador el **ratio beneficio - margen de seguridad**
 
-#### Rango relevante
+### Rango relevante
 
 Rango de producción para el que el estudio es válido. Es decir, rango en el que las hipótesis del modelo se cumplen y por lo tanto sus conclusiones son válidas.
 
@@ -97,22 +97,20 @@ Activos almacenables que la empresa adquiere para incorporarlos al proceso produ
 
 ??? abstract "📉 No importante"
 
-  - Materias primas
-  - Materias auxiliares
-  - Productos en curso
-  - Subproductos
-  - Otros aprovisionamientos
-  - Residuos
-  - Materiales recuperados
-  - Envases y embalajes
+    - Materias primas
+    - Materias auxiliares
+    - Productos en curso
+    - Subproductos
+    - Otros aprovisionamientos
+    - Residuos
+    - Materiales recuperados
+    - Envases y embalajes
 
 ### 📉 Valoración inicial
 
 - Los bienes y servicios comprendidos en las existencias se valorarán por su coste, ya sea el precio de adquisición o el coste de producción.
 - Los impuestos se incluirán si no son recuperables directamente de la Hacienda Pública.
 - Las existencias que necesiten más de un año para estar en codiciones de ser vendidas se incluirán.
-
-### 📉 Precio de adquisición
 
 ### 📉 Inventarios periódicos
 
@@ -121,3 +119,9 @@ El recuento de existencias se realizan de forma periódica al final del periodo.
 ### 📉 Inventarios permanentes
 
 Los movimientos se registran de forma instantánea. Es lo más común ahora por que la tecnología lo permite.
+
+### 📉 Tipos de aprovisionamiento
+
+- **Stocks de seguridad:** se mantiene un volumen de existencias suficentes. Se usa cuando los proveedores no efectúan pedidos seguros. Obliga a tener un volumen de almacén elevado, por lo que los costes suelen ser elevados.
+- **Aprovisionamientos eventuales:** tiene el riesgo de no contar con un stock de seguridad, pero ahorra costes de almacén.
+- **Aprovisionamientos sincronizados:** se gestiona con la técnica del *Just In Time*.

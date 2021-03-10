@@ -25,7 +25,7 @@ La contabilidad de gestión debe proporcionar información sobre los costes y re
 - **Producto o servicio:** objetivo final del proceso económico, industrial o comercial de la empresa. En caso de ser intangible se denomina ^^servicio^^.
 - **Factores:** recursos inmovilizados o corrientes que utiliza la empresa para obtener los productos o servicios.
 - **Proceso:** en mayor o menor complejidad es el sistema de producción.
-- Rendimiento: cantidad de productos obtenidos con los factores en el proceso productivo de la empresa.
+- **Rendimiento:** cantidad de productos obtenidos con los factores en el proceso productivo de la empresa.
 - **Gasto:** decrementos en el patrimonio neto de la empresa durante el ejercicio. Puede darse por disminuciones de activos o aumento de pasivos, pero no puede darse por distribuciones a los socios.
 - **Ingreso:** incrementos en el patrimonio neto de la empresa durante el ejercicio. Puede darse por aumentos de activos o disminuciones de pasivos, pero no puede darse por las aportaciones de los socios.
 - **Coste:** consumo de factores que se utilizan en el proceso productivo.
