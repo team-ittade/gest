@@ -16,6 +16,8 @@ nav:
   - Tema 2:
       Teoría: tema-2/index.md
       Ejercicios: tema-2/ejercicios.md
+  - Tema 3:
+      Teoría: tema-3/index.md
 
 repo_name: team-ittade/gest
 repo_url: https://github.com/team-ittade/gest
