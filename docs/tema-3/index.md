@@ -66,3 +66,12 @@ Variables **técnicas** o unidades de obra que permiten la medición de la activ
     | $\rightarrow$ Variables|160.000|
     |**TOTAL**|962.000
     |Unitario $=962.000/72.000$|13,36|
+
+## Precisiones al cálculo del coste de producción
+
+- Generalmente se usa PMP, pero se puede usar FIFO como método de valoración de inventarios.
+  **LIFO y otros están fuera de la regulación española.**{.red}
+- Si se producen mermas en el proceso se considerarán mayor coste del producto.
+  **Si se corresponden a productos terminados se imputarán a la cuenta de pérdidas y ganancias.**{.red}
+- Los gastos de investigación son gastos del periodo y no forman parte del coste de producción.
+  **Si existieran gastos de pruebas y ensayo sí que se meterán en el coste de producción.**{.green}
