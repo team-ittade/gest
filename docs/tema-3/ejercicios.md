@@ -42,3 +42,38 @@ Calculamos costes de subactividad
 Total costes de subactividad = 3.840 + 6.785 = 10.625
 
 Coste de producción = 115.070 - 10.625 = 104.445
+
+## `Ejercicio 15 - método de los minoristas`
+
+<span class="red">**Notas:**</span>
+
+- Nos dicen que las mercaderías se han adquirido *free on board*. Google dice que es en barco, se denota como `FOB`.
+- Dicen que los *fletes* han ascendido a 30.000. Se trata de un coste de algo, supongo que es el transporte del barco.
+
+**Determine en unidades monetarias el margen obtenido.**
+
+- Compra = 400.000 + 30.000 + 20.000 = 450.000
+- Variación de existencias = 210.000 - 80.000 = 130.000
+- Consumo = 450.5000 - 130.000 = 320.000
+- Ventas: X - 20% \* = 320.000 → X = 400.000
+- Margen = 400.000 - 320.000 = 80.000
+
+## `Ejercicio 16 - método de los minoristas`
+
+**Se pide determinar el resultado y la valoración del inventario.**
+
+Resultado:
+
+|Concepto|Importe|
+|--|--:|
+|Ventas|**200.000**{.green}|
+|Compras|**-180.000**{.red}|
+|Var. Existencias|**20.000**{.green}|
+|Personal|**-30.000**{.red}|
+|Otros gastos de Ex.|**-2.000**{.red}|
+|Gastos financieros|**-3.000**{.red}|
+|BAII|**5.000**{.green}|
+|Impuesto s/ benef.|**-1.250**{.red}|
+|Resultado del Ej.|**3.750**{.green}|
+
+{>>Dice que no le interesa el resultado del ejercicio / logic=false<<}

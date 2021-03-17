@@ -23,3 +23,10 @@ Solución:
 - Coste B = 0.25 * 104.445 = 26.111,25
 - Coste unitario A = 78.333,75 / 200 = 391,67
 - Coste unitario B = 26.111,25 / 200 = 130,56
+
+## Otras
+
+$Ventas - margen \cdot Ventas = Consumo\; de\; materias primas$
+
+- `Margen` está en porcentaje
+- Sacado del [ejercicio 15](ejercicios.md#ejercicio-15---método-de-los-minoristas)
