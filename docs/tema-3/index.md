@@ -73,5 +73,41 @@ Variables **técnicas** o unidades de obra que permiten la medición de la activ
   **LIFO y otros están fuera de la regulación española.**{.red}
 - Si se producen mermas en el proceso se considerarán mayor coste del producto.
   **Si se corresponden a productos terminados se imputarán a la cuenta de pérdidas y ganancias.**{.red}
-- Los gastos de investigación son gastos del periodo y no forman parte del coste de producción.
+- Los gastos de investigación son gastos del periodo y **no** forman parte del coste de producción.
   **Si existieran gastos de pruebas y ensayo sí que se meterán en el coste de producción.**{.green}
+- Tampoco se integran en el coste de producción:
+    - Indemnizaciones por siniestros
+    - Gastos de comercialización
+    - Gastos de pos-venta, revision y garantías
+    - Gastos de administración generales
+    - Gastos de almacenamiento **no indispensables**
+
+## Método de los minoristas: un método excepcional
+
+- Gran volumen de referencias
+- No se puede calcular el margen por producto individual. Se recomienda usar un margen medio
+- Gestión de almacenes poco precisa
+- Margen aplicado constante
+- **No puede presentar grandes referencias con el método de costes completos de imputación racional**{.red}
+- El coste de existencias se determina restando el margen al precio de venta
+- **Para las existencias de ciclo largo de fabricación se consdierarán como fuentes de financiación las deudas comerciales correspondientes a los distintos elementos integrantes de su coste de producción.**
+
+!!! example
+    - Compra de mercaderías por 108
+    - Se venderán por 120
+    - En el ejercicio se han vendido productos por un total de 100 al contado
+
+    **Se pide calcular el resultado y el inventario.**
+
+    $Margen=\dfrac{120-108}{120}=120\%$
+
+    $Valoración\; de\; existencias\; en\; almacen=20-10\%\cdot20=18$
+
+    Resultado:
+
+    |||
+    |:--|--:|
+    |Ventas|100|
+    |Compras|-108|
+    |V. Existencias|18|
+    |Resultado|10|
