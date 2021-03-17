@@ -94,7 +94,7 @@ El total de la financiación no específica asciende a 750.000
 |||
 |--|--:|
 |Capital|240.000|
-|Rservas|60.000|
+|Reservas|60.000|
 |Préstamos a lp|150.000|
 |Préstamos a cp banco A|50.000|
 |Préstamos a cp banco B|250.000|
@@ -119,3 +119,47 @@ Tipo medio = 21.500 / 450.000 = 4.77%
 `Cargas financieras procedentes de la financiación genérica` = 144.000 \* 4.77% = 6.880
 
 `Gastos financieros a capitalizar` = 1.600 + 6.880 = 8.480
+
+## `Ejercicio 18 - incorporación de cargas financieras`
+
+**Calcular y registrar la capitalización de cargas financieras.**
+
+El valor que tomamos como referencia es 520.000
+
+- La parte financiada con fuentes ajenas específicas es de 80.000.
+- El tipo aplicado es del 3%.
+
+`Cargas financieras procedentes de la financiación específica` = 80.000 \* 3% = 2.400
+
+El total de la financiación no específica asciende a 400.000
+
+|||
+|--|--:|
+|Capital|120.000|
+|Reservas|130.000|
+|Préstamos a lp|100.000|
+|Préstamos a cp banco A|15.000|
+|Préstamos a cp banco B|35.000|
+|Total|400.000|
+
+- La financiación propia en el patrimonio neto es de (120.000 + 130.000) / 400.000 = 62.5%
+- La financiación ajena en el patrimonio neto es de 37.5%
+
+520.000 - 80.000 = 440.000
+
+La parte financiada con fuentes ajenas genéricas es de 440.000 \* 37.5% = 165.000
+
+Calculamos el tipo medio de interés
+
+|Fuente de financiación|Principal|Tipo|Intereses|
+|--|--:|--:|--:|
+|Préstamo a lp|100.000|2%|2.000|
+|Préstamos a cp banco A|15.000|4%|600|
+|Préstamos a cp banco B|35.000|6%|2.100|
+|Total|150.000||4.700|
+
+Tipo medio = 4.700 / 150.000 = 3.13%
+
+`Cargas financieras procedentes de la financiación genérica` = 150.000 \* 3.13% = 4.700
+
+`Gastos financieros a capitalizar` = 2.400 + 4.700 = 7.100

@@ -120,3 +120,26 @@ Variables **técnicas** o unidades de obra que permiten la medición de la activ
     |Compras|-108|
     |V. Existencias|18|
     |Resultado|10|
+
+## Precisiones sectoriales
+
+- Empresas constructoras, inmobiliarias, del sector vitivinícola y federaciones deportivas
+
+### Constructoras
+
+- Hay que tratar los costes de las instalaciones generales, de los costes iniciales de anteproyectos y proyectos de obras
+- Destaca la prohibición expresa de aplicar el método del contrato cumplido
+{.red}
+
+### Inmobiliarias
+
+- La valoración de terrenos y solares, de bienes recibidos por el cobro de créditos y de edificios de multipropiedad {>>Makes no sense<<}
+- Desarrollándose como es lógico la imputación de costes a la obra en curso y la valoración de las indemnizaciones a arrendatarios.
+
+### Federaciones deportivas
+
+Se establecen los criterios aplicables tanto a la organización de acontecimientos como a los animales deportivos.
+
+### Vitvinícolas
+
+Se instauran los criterios de valoración de plantaciones, soleras, criaderas y existencias de vinos y derivados.
