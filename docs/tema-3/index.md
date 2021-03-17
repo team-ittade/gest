@@ -84,6 +84,8 @@ Variables **técnicas** o unidades de obra que permiten la medición de la activ
 
 ## Método de los minoristas: un método excepcional
 
+*Disclaimer: copiado tal cual de las diapositivas, ni idea de qué significará.*
+
 - Gran volumen de referencias
 - No se puede calcular el margen por producto individual. Se recomienda usar un margen medio
 - Gestión de almacenes poco precisa
@@ -91,6 +93,13 @@ Variables **técnicas** o unidades de obra que permiten la medición de la activ
 - **No puede presentar grandes referencias con el método de costes completos de imputación racional**{.red}
 - El coste de existencias se determina restando el margen al precio de venta
 - **Para las existencias de ciclo largo de fabricación se consdierarán como fuentes de financiación las deudas comerciales correspondientes a los distintos elementos integrantes de su coste de producción.**
+- Al valor contable de las existencias en fabricación y del inmovilizado en curso (^^una vez descontada la parte financiada con fuentes específicas^^) se le **asignará proporcionalmente el resto de fondos ajenos no comerciales** (^^excluida la financiación específica de otros elementos del activo^^)
+- Los gastos financieros devengados por la actualización de valor de las provisiones no constituyen gastos financieros vinculados a la producción de un activo (salvo que de manera *indubitada* tengan que clasificarse como tales).
+- Procedimiento:
+    - Una vez determinadas las fuentes de financiación ajena (excluidas las deudas comerciales) se calcula el total de los gastos financieros devengados por las mismas.
+    - El tipo de interés medio ponderado se obtendrá al relacionarlos dos componentes anteriores y reflejará el coste de utilización de la financiación ajena.
+    - La magnitud obtenida en el apartado anterior se aplicará a la parte de inversión en las existencias una vez descontada la parte financiada con fondos ajenos específicos, **con el límite para esa diferencia del importe de los fondos ajenos no obtenidos específicamente para estas operaciones**, excluidas las deudas comerciales.
+    - **El importe de los gastos financieros que la entidad capitalizará durante el ejercicio no excederá del total de gastos financieros en que se haya incurrido durante ese ejercicio.**
 
 !!! example
     - Compra de mercaderías por 108

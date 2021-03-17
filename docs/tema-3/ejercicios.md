@@ -77,3 +77,45 @@ Resultado:
 |Resultado del Ej.|**3.750**{.green}|
 
 {>>Dice que no le interesa el resultado del ejercicio / logic=false<<}
+
+## `Ejercicio 17 - incorporación de cargas financieras`
+
+**Calcular y registrar la capitalización de cargas financieras.**
+
+El valor que tomamos como referencia es 280.000
+
+- La parte financiada con fuentes ajenas específicas es de 40.000.
+- El tipo aplicado es del 4%.
+
+`Cargas financieras procedentes de la financiación específica` = 40.000 \* 4% = 1.600
+
+El total de la financiación no específica asciende a 750.000
+
+|||
+|--|--:|
+|Capital|240.000|
+|Rservas|60.000|
+|Préstamos a lp|150.000|
+|Préstamos a cp banco A|50.000|
+|Préstamos a cp banco B|250.000|
+|Total|750.000|
+
+- La financiación propia en el patrimonio neto es de (240.000 + 60.000) / 750.000 = 40%
+- La financiación ajena en el patrimonio neto es de 60%
+
+La parte financiada con fuentes ajenas genéricas es de 240.000 \* 60% = 144.000
+
+Calculamos el tipo medio de interés
+
+|Fuente de financiación|Principal|Tipo|Intereses|
+|--|--:|--:|--:|
+|Préstamo a lp|150.000|3%|4.500|
+|Préstamos a cp banco A|50.000|4%|2.000|
+|Préstamos a cp banco B|250.000|6%|15.000|
+|Total|450.000||21.500|
+
+Tipo medio = 21.500 / 450.000 = 4.77%
+
+`Cargas financieras procedentes de la financiación genérica` = 144.000 \* 4.77% = 6.880
+
+`Gastos financieros a capitalizar` = 1.600 + 6.880 = 8.480
