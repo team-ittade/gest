@@ -19,7 +19,10 @@ nav:
   - Tema 3:
       Teoría: tema-3/index.md
       Ejercicios: tema-3/ejercicios.md
-  - Parcial 1: parcial-1.md
+      Fórmulas: tema-3/formulas.md
+  - Exámenes:
+      Parcial 1: exámenes/parcial-1.md
+      Parcial 2: exámenes/parcial-2.md
 
 repo_name: team-ittade/gest
 repo_url: https://github.com/team-ittade/gest
