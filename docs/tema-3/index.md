@@ -143,3 +143,49 @@ Se establecen los criterios aplicables tanto a la organización de acontecimient
 ### Vitvinícolas
 
 Se instauran los criterios de valoración de plantaciones, soleras, criaderas y existencias de vinos y derivados.
+
+## El coste de oportunidad
+
+La contabilidad analítica (de costes) ha introducido conceptos no contemplados en la contabilidad financiera. Uno de ellos es el concepto de [coste de oportunidad](#el-coste-de-oportunidad) (introducido por *Friedrich von Wieser* con su *Teoría de la economía social*, es uno de los fundadores de la Escuela Austriaca de Economía).
+
+El coste de oportunidad es el que sufre una entidad por adoptar unas decisiones de inversión en vez de otras. Por optar por desarrollar un proceso productivo y no otro.
+
+### Modelo contable de costes de oportunidad
+
+El modelo contable de costes de oportunidad sólo aporta información relativa a estos costes. **No altera ningún cálculo de costes previamente establecido**. Así este modelo, podría constar de las siguientes fases:
+
+- **Incorporación de los costes de oportunidad**.
+- Cálculo de los suplementos por coste de oportunidad en cada centro.
+- Imputación a los productos.
+
+Supone, este modelo, un sistema complementario, de adición. Podríamos decir que complementa una información previamente elaborada.
+
+### El cálculo
+
+El cargo por los costes financieros será:
+
+$C=\dfrac{c}{n}\cdot K + m\cdot c\cdot F$
+
+- **K:** coste de los factores circulantes
+- **F:** coste de los factores fijos
+- **n:** rotaciones del circulante
+- **c:** tasa de interés
+- **m:** vida del inmovilizado
+
+!!! example
+    - La amortización es el único factor fijo
+    - Tasa de coste de capital = 2%
+    - Número de rotaciones del circulante = 11
+    - Vida del inmovilizado = 30 años
+
+    **Determine el coste financiero en términos de oportunidad**.
+
+    ||Circulantes|Fijos|
+    |--|--:|--:|
+    |Materia prima|2.000.000||
+    |Mano de obra|1.800.000||
+    |Costes indirectos|500.000|150.000|
+    |Coste comercial|100.000||
+    |**TOTAL**|**4.400.000**|**150.000**|
+
+    $C=\dfrac{0.02}{11}\cdot 4.400.000 + 30\cdot 0.02 \cdot 150.000 = 98.000$

@@ -163,3 +163,30 @@ Tipo medio = 4.700 / 150.000 = 3.13%
 `Cargas financieras procedentes de la financiación genérica` = 150.000 \* 3.13% = 4.700
 
 `Gastos financieros a capitalizar` = 2.400 + 4.700 = 7.100
+
+## `Ejercicio 19 - el coste de oportunidad`
+
+- La amortización es el único factor fijo
+- Tasa de coste de capital = 2%
+- Número de rotaciones del circulante = 15
+- Vida del inmovilizado = 20 años
+
+**Determine el coste financiero en términos de oportunidad**.
+
+||Circulantes|Fijos|
+|--|--:|--:|
+|Materia prima|3.000.000||
+|Mano de obra|1.800.000||
+|Costes indirectos|3.200.000|300.000|
+|Coste comercial|1.000.000||
+|**TOTAL**|**9.000.000**|**300.000**|
+
+$C=\dfrac{0.02}{15}\cdot 9.000.000 + 20\cdot 0.02 \cdot 300.000 = 132.000$
+
+## `Ejercicio 20 - coste de oportunidad`
+
+**Determine el coste financiero en términos de oportunidad.**
+
+Coste de capital para la empresa = (4.000 + 10.000) / (200.000 + 360.000) = 2.5%
+
+C = 18.000.000 \* 0.025 / 12 + 500.000 \* 0.025 \* 25 = 350.000
