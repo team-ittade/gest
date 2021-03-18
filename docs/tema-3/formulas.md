@@ -26,7 +26,7 @@ Solución:
 
 ## Otras
 
-$Ventas - margen \cdot Ventas = Consumo\; de\; materias primas$
+$Ventas - margen \cdot Ventas = Consumo\; de\; materias\; primas$
 
 - `Margen` está en porcentaje
 - Sacado del [ejercicio 15](ejercicios.md#ejercicio-15---método-de-los-minoristas)
