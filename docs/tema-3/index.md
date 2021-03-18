@@ -8,7 +8,7 @@ El PCG y la Resolución apuestan por un modelo de ^^imputación racional de cost
 
 ## La subactividad
 
-Es el coste en que se incurre en un periodo de infrautilizacion de los recursos fijos de producción {>>huelgas<<}
+Es el coste en que se incurre en un periodo de infrautilización de los recursos fijos de producción {>>huelgas<<}
 
 La variación en el coste unitario de producción {>>suponiendo precios y productividad constantes<<} derivada del desaprovechamiento de la capacidad productiva de las instalaciones **no deberá ser imputado a los productos**{.red}
 
@@ -92,7 +92,7 @@ Variables **técnicas** o unidades de obra que permiten la medición de la activ
 - Margen aplicado constante
 - **No puede presentar grandes referencias con el método de costes completos de imputación racional**{.red}
 - El coste de existencias se determina restando el margen al precio de venta
-- **Para las existencias de ciclo largo de fabricación se consdierarán como fuentes de financiación las deudas comerciales correspondientes a los distintos elementos integrantes de su coste de producción.**
+- **Para las existencias de ciclo largo de fabricación se considerarán como fuentes de financiación las deudas comerciales correspondientes a los distintos elementos integrantes de su coste de producción.**
 - Al valor contable de las existencias en fabricación y del inmovilizado en curso (^^una vez descontada la parte financiada con fuentes específicas^^) se le **asignará proporcionalmente el resto de fondos ajenos no comerciales** (^^excluida la financiación específica de otros elementos del activo^^)
 - Los gastos financieros devengados por la actualización de valor de las provisiones no constituyen gastos financieros vinculados a la producción de un activo (salvo que de manera *indubitada* tengan que clasificarse como tales).
 - Procedimiento:
@@ -123,7 +123,7 @@ Variables **técnicas** o unidades de obra que permiten la medición de la activ
 
 ## Precisiones sectoriales
 
-- Empresas constructoras, inmobiliarias, del sector vitivinícola y federaciones deportivas
+Sobre empresas constructoras, inmobiliarias, del sector vitivinícola y federaciones deportivas.
 
 ### Constructoras
 
