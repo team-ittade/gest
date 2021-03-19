@@ -43,6 +43,16 @@ Total costes de subactividad = 3.840 + 6.785 = 10.625
 
 Coste de producción = 115.070 - 10.625 = 104.445
 
+- Nos dicen que la sección 2 ha producido 400 unidades y se producen el mismo número de unidades, así que 200 de cada tipo.
+- Para separar los costes en A y B nos dicen que usemos la proporción 3 a 1 → 75% A, 25% B
+
+Solución:
+
+- Coste A = 0.75 * 104.445 = 78.333,75
+- Coste B = 0.25 * 104.445 = 26.111,25
+- Coste unitario A = 78.333,75 / 200 = 391,67
+- Coste unitario B = 26.111,25 / 200 = 130,56
+
 ## `Ejercicio 15 - método de los minoristas`
 
 <span class="red">**Notas:**</span>
