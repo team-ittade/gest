@@ -65,7 +65,7 @@ Solución:
 - Compra = 400.000 + 30.000 + 20.000 = 450.000
 - Variación de existencias = 210.000 - 80.000 = 130.000
 - Consumo = 450.5000 - 130.000 = 320.000
-- Ventas: X - 20% \* = 320.000 → X = 400.000
+- Ventas: X - 20% \* X = 320.000 → X = 400.000
 - Margen = 400.000 - 320.000 = 80.000
 
 ## `Ejercicio 16 - método de los minoristas`
