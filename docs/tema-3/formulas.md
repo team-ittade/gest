@@ -14,6 +14,16 @@ $Costes\; de\; subactividad=Costes\; fijos \cdot Coeficiente\; de\; subactividad
 
 **Los costes de subactividad <span class="red">decrementan</span> el coste de producción.**
 
+## Coste de oportunidad
+
+$C=\dfrac{c}{n}\cdot K + m\cdot c\cdot F$
+
+- **K:** coste de los factores circulantes
+- **F:** coste de los factores fijos
+- **n:** rotaciones del circulante
+- **c:** tasa de interés
+- **m:** vida del inmovilizado
+
 ## Otras
 
 $Ventas - margen \cdot Ventas = Consumo\; de\; materias\; primas$
