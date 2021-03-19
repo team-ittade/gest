@@ -108,7 +108,7 @@ Variables **técnicas** o unidades de obra que permiten la medición de la activ
 
     **Se pide calcular el resultado y el inventario.**
 
-    $Margen=\dfrac{120-108}{120}=120\%$
+    $Margen=\dfrac{120-108}{120}=10\%$
 
     $Valoración\; de\; existencias\; en\; almacen=20-10\%\cdot20=18$
 
