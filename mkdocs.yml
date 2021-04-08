@@ -22,6 +22,7 @@ nav:
       Fórmulas: tema-3/formulas.md
   - Tema 4:
       Teoría: tema-4/index.md
+      Ejercicios: tema-4/ejercicios.md
 
 repo_name: team-ittade/gest
 repo_url: https://github.com/team-ittade/gest
