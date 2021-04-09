@@ -75,3 +75,43 @@ Los costes en los que se ha incurrido en el período son de 40.000€ de materia
 ![img](../images/tema-4/ejercicios/24/solucion-1.png)
 
 ![img](../images/tema-4/ejercicios/24/solucion-2.png)
+
+## `Ejercicio 25 - Reparto primario y secundario`
+
+La empresa OMEGA se dedica a la fabricación y comercialización de los productos P y Q.
+
+La materia prima X se empieza procesando en la Fase 1 obteniendo un producto semiterminado R (2 kgs. materia prima X/ud. semiterminado R), destinando el 60% de la producción a Acabado y el resto pasa a la Fase 2, donde se añade 0,2 kgs. de materias auxiliares/ud. semiterminado R para obtener el semiterminado S (1 ud. semiterminado R/ud. semiterminado S) que también va al centro de Acabado.
+
+En el centro de Acabado se incorporan los envases y se obtienen los productos P (1 ud. del semiterminado R) y Q (1 ud. del semiterminado R y 1 ud. del semiterminado S).
+
+![img](../images/tema-4/ejercicios/25/tabla-1.png)
+
+La sección de Mantenimiento trabajó 2.100 h-h, que se reparten por partes iguales entre los centros operativos principales.
+
+![img](../images/tema-4/ejercicios/25/tabla-2.png)
+
+Se mantienen los precios y costes del período anterior. En este período se consumen 20.000 kgs. de materia prima X. No quedan existencias de materias auxiliares, ni de materia prima X, comprando lo que se vaya a consumir a 15 u.m./kg. de materias auxiliares y 60 u.m./kg. de materia prima X.
+
+Tampoco quedan existencias de producto semiterminado R. Por un accidente, en el almacén se estropean 100 envases. Además, debido a un problema en el centro de Acabado se necesita consumir un 10% más de semiterminado S.
+
+La producción de P es la máxima que se pueda realizar con el semiterminado R disponible.
+
+En este período la empresa aumenta sus ventas hasta el punto de no tener ninguna existencia de productos terminados al final del mismo, teniendo en cuenta la diferencia de inventario estimada del 2% del total de unidades almacenadas de P. Los precios de venta son el doble del coste industrial de los productos.
+
+**Se pide:**
+
+1. **Diagrama del proceso**
+2. **Estadística de costes**
+3. **Coste de los productos semiterminados y terminados**
+4. **Inventarios permanentes**
+5. **Márgenes y resultados**
+
+![img](../images/tema-4/ejercicios/25/solucion-1.png)
+
+![img](../images/tema-4/ejercicios/25/solucion-2.png)
+
+![img](../images/tema-4/ejercicios/25/solucion-3.png)
+
+![img](../images/tema-4/ejercicios/25/solucion-4.png)
+
+![img](../images/tema-4/ejercicios/25/solucion-5.png)
