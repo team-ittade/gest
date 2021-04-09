@@ -125,3 +125,5 @@ En este período la empresa aumenta sus ventas hasta el punto de no tener ningun
 ![img](../images/tema-4/ejercicios/25/solucion-9.png)
 
 ![img](../images/tema-4/ejercicios/25/solucion-10.png)
+
+![img](../images/tema-4/ejercicios/25/solucion-11.png)
