@@ -62,9 +62,11 @@ Existen varios métodos, cada uno se podrá aplicar de forma más eficaz dependi
 `Basados en producción equivalente`
 :   Establece un grado de avance tomando como referencia una equivalencia respecto del producto ya acabado. Se establece una equivalencia para cada coste que comprende el coste de producción.
 
-<!-- ### Ejemplo producción equivalente
+### Ejemplo producción equivalente
 
-|Unidades|%||Existencias finales|
+Hay un excel en el [campus virtual](https://campusvirtual.uva.es/mod/resource/view.php?id=1051912) que no entiendo.
+
+<!-- |Unidades|%||Existencias finales|
 |:--:|:--:|:--:|--|
 |4|0,25|1,00||
 |38|1,00|38,0|||
