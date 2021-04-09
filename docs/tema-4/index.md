@@ -46,3 +46,29 @@ Podemos dividir el análisis de costes en las siguientes cuatro etapas o fases:
 ![img](../images/tema-4/ejemplos/solucion-ejercicio-subreparto-secciones-relacionadas.png)
 
 ![img](../images/tema-4/ejemplos/solucion-ejercicio-subreparto-secciones-relacionadas-2.png)
+
+## Valoración de la producción en curso
+
+Existen varios métodos, cada uno se podrá aplicar de forma más eficaz dependiendo de la tipología del proceso productivo (anque el más utilizado es el de la **producción equivalente**).
+
+**Métodos:**
+
+`Métodos simples`
+:   Se basan en la apreciaciíon subjetiva del grado de desarrollo y estimando el consumo de factores. {>>Ej: parece que el bote de gel está al 80%<<}
+
+`Métodos establecidos para la producción continua`
+:   Valora la producción en curso teninedo en cuenta el tiempo transcurrido desde el inicio del proceso, la cantidad consumida de un factor, el consumo de materiales... Sólo se puede aplicar si tenemos producción continua.
+
+`Basados en producción equivalente`
+:   Establece un grado de avance tomando como referencia una equivalencia respecto del producto ya acabado. Se establece una equivalencia para cada coste que comprende el coste de producción.
+
+<!-- ### Ejemplo producción equivalente
+
+|Unidades|%||Existencias finales|
+|:--:|:--:|:--:|--|
+|4|0,25|1,00||
+|38|1,00|38,0|||
+|6|0,75|4,50|4|.5\*1.149,43=5.172,44|
+|Suma||43,50|
+
+Coste unitario: 50.000 / 43,5 = 1.149,43 -->
