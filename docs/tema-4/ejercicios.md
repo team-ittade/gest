@@ -53,6 +53,14 @@ Los costes comerciales se reparten a los productos según las unidades vendidas.
 
 ![img](../images/tema-4/ejercicios/23/solucion-1.png)
 
+![img](../images/tema-4/ejercicios/23/solucion-2.png)
+
+![img](../images/tema-4/ejercicios/23/solucion-3.png)
+
+![img](../images/tema-4/ejercicios/23/solucion-4.png)
+
+![img](../images/tema-4/ejercicios/23/solucion-5.png)
+
 ## `Ejercicio 24 - Valoración de productos en curso (producción equivalente)`
 
 La empresa ÑIU S.A. valora sus productos en curso de su producto EQ1 mediante el método de la producción equivalente. En el período de producción presenta unas existencias iniciales de 200 uds. valoradas en 3.600€. Estas unidades incorporaban el 80% de materia prima, el 60% de mano de obra directa y, el 50% de costes indirectos.
