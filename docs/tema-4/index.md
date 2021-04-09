@@ -51,7 +51,7 @@ Podemos dividir el análisis de costes en las siguientes cuatro etapas o fases:
 
 Existen varios métodos, cada uno se podrá aplicar de forma más eficaz dependiendo de la tipología del proceso productivo (anque el más utilizado es el de la **producción equivalente**).
 
-**Métodos:**
+### Métodos de valoración de la producción en curso
 
 `Métodos simples`
 :   Se basan en la apreciaciíon subjetiva del grado de desarrollo y estimando el consumo de factores. {>>Ej: parece que el bote de gel está al 80%<<}
@@ -60,7 +60,11 @@ Existen varios métodos, cada uno se podrá aplicar de forma más eficaz dependi
 :   Valora la producción en curso teninedo en cuenta el tiempo transcurrido desde el inicio del proceso, la cantidad consumida de un factor, el consumo de materiales... Sólo se puede aplicar si tenemos producción continua.
 
 `Basados en producción equivalente`
-:   Establece un grado de avance tomando como referencia una equivalencia respecto del producto ya acabado. Se establece una equivalencia para cada coste que comprende el coste de producción.
+:   Establece un grado de avance tomando como referencia una equivalencia respecto del producto ya acabado. Se establece una equivalencia para cada coste que comprende el coste de producción.<br>
+    **Se basa en un porcentaje de unidades equivalentes terminadas. Este porcentaje se basa en el grado de terminación.**
+
+!!! note
+    La producción terminada será el resultado de terminar las ^^unidades equivalentes del proceso anterior^^ más las ^^unidades empezadas y terminadas en el proceso^^ restando las ^^unidades equivalentes que queden al final de dicho proceso^^.
 
 ### Ejemplo producción equivalente
 
@@ -74,3 +78,21 @@ Hay un excel en el [campus virtual](https://campusvirtual.uva.es/mod/resource/vi
 |Suma||43,50|
 
 Coste unitario: 50.000 / 43,5 = 1.149,43 -->
+
+## Cómo afrontar las mermas
+
+Son unidades de inventario que desaparecen o aparecen estropeadas.
+
+!!! success "Resolución del ICAC"
+    Se distingue entre producción dañada normal y atípica. **La normal será coste de producción** (como un coste indirecto) y **la atípica será gasto del ejercicio**.
+
+!!! question "Normal vs atípica"
+    - Normal: previsto, tolerable
+    - Atípico: imprevisto, no tolerable
+
+!!! danger "Mermas en productos terminados"
+    **Si las mermas se han producido en los productos terminados no se puede clasificar como coste de producción.**{.red}
+    Mermas de productos terminados se considera una pérdida del ejercicio.
+
+!!! info "Indemnizaciones"
+    Son ingresos del ejercicio, no reducen el coste de producción.
