@@ -38,3 +38,7 @@ Los presupuestos firmados con los clientes han sido:
 
 - **Determinar la rentabilidad de cada proyecto.**
 - **Determinar el resultado de la actividad de 20XX.**
+
+![img](../images/tema-5/ejs/25/solucion-1.png)
+
+![img](../images/tema-5/ejs/25/solucion-2.png)
