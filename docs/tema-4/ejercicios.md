@@ -1,5 +1,24 @@
 # Ejercicios tema 4
 
+## `Ejercicio 21 - subreparto entre secciones relacionadas`
+
+La estadística de costes del reparto primario de una empresa es la siguiente:
+
+![img](../images/tema-4/ejercicios/21/tabla-1.png)
+
+El subreparto de los talleres se realiza de la siguiente forma:
+
+- El taller uno trabajó 160 horas hombre = 20 para aprovisionamiento, 25 para sí mismo, 15 para
+taller 2 y 100 para producción.
+- El taller dos trabajó 90 horas máquina = 5 para aprovisionamiento, 10 para taller 1, 70 para
+producción y 5 para administración.
+
+**Se pide realizar el reparto secundario.**
+
+![img](../images/tema-4/ejercicios/21/solucion-1.png)
+
+![img](../images/tema-4/ejercicios/21/solucion-2.png)
+
 ## `Ejercicio 22 - Subreparto entre secciones relacionadas`
 
 La estadística de costes del reparto primario de una empresa es la siguiente:
@@ -21,14 +40,11 @@ El subreparto de lost alleres se realiza de la siguiente forma:
 
 ## `Ejercicio 23 - Subreparto`
 
-A partir de una única materia prima la empresa DUFE S.A., elabora dos productos D y F. La materia prima es tratada en una primera sección de `DEPURADO`, para obtener un Semiterminado y un desecho, que es eliminado sin ningún tipo de coste. En una segunda sección de `FINALIZADO` a partir del Semiterminado se obtienen los productos finales D y F. Datos relativos a inventarios (Valoración: criterio `FIFO`):
+A partir de una única materia prima la empresa DUFE S.A., elabora dos productos D y F. La materia prima es tratada en una primera sección de `DEPURADO`, para obtener un Semiterminado y un desecho, que es eliminado sin ningún tipo de coste. En una segunda sección de `FINALIZADO` a partir del Semiterminado se obtienen los productos finales D y F.
 
-||Existencias iniciales|Existencias finales|
-|--|--|--|
-|Materia prima|20.000 Kg a 60 um/Kg|?|
-|D|10.400 uds a 220 um/ud|?|
-|F|14.000 uds a 240 um/ud|?|
-|F en curso sección finalizado (1)|0|2.000 uds con coste total de 214.800|
+Datos relativos a inventarios (Valoración: criterio `FIFO`):
+
+![img](../images/tema-4/ejercicios/23/tabla-1.png)
 
 En el almacén de materias primas se prevé una pérdida del 1,5 % de la cantidad comprada. Se gestionan en el centro aprovisionamiento. Al final del período, al realizar el inventario físico, se observa que las existencias finales reales de los productos terminados son un 2 % inferior a las contables.
 
@@ -36,6 +52,8 @@ En el almacén de materias primas se prevé una pérdida del 1,5 % de la cantida
 - En Finalizado se obtienen 30.000 de F y 48.000 uds. de D, al necesitar 2 uds. de Semiterminado por ud. de terminado, quedando en curso de elaboración 2.000 uds de F valoradas en 214.800 u.m (1).
 
 Datos relativos a costes: Las compras de materia primas fueron 80.000 uds. a 80 u.m./ud., consumiéndose 78.000 uds.
+
+![img](../images/tema-4/ejercicios/23/tabla-2.png)
 
 - La sección auxiliar de Mantenimiento trabajó 800 h-h que se distribuyeron para Supervisión (240 h-h), Depurado (360 h-h), Finalizado (160 h-h) y Comercial (40 h-h).
 - La sección auxiliar de Supervisión realizó un total de 4.000 controles: 480 para ella misma, 320 para Mantenimiento y 1.600 para cada sección de transformación.

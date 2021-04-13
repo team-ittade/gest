@@ -1,6 +1,6 @@
 # Ejercicios tema 5
 
-## Ejercicio 26 - costes por pedido o proyecto
+## `Ejercicio 26 - costes por pedido o proyecto`
 
 Norma 11ª aptdo. 1 de la Resolución ICAC 14‐4‐20151
 

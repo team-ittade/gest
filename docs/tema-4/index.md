@@ -3,7 +3,7 @@
 Podemos dividir el análisis de costes en las siguientes cuatro etapas o fases:
 
 1. Identificación de la actividad de la empresa y sus características
-2. Identificar el coste de lso diferentes factores en cada centro
+2. Identificar el coste de los diferentes factores en cada centro
 3. Imputación del coste de los factores al producto
 4. Cálculo de márgenes
 
@@ -29,24 +29,6 @@ Podemos dividir el análisis de costes en las siguientes cuatro etapas o fases:
 - Si hay interrelaciones entre distintas secciones **se establecerá un criterio de reparto previo**.
 - El autoconsumo no se repercute, se puede eliminar.
 
-### Ejercicio de subreparto entre secciones relacionadas
-
-- `Taller 1` trabajó 160h (20 aprovisionamiento, 25 `Taller 1`, 15 `Taller 2` y 100 producción)
-- `Taller 2` trabajó 90h (5 aprovisionamiento, 10 `Taller 1`, 70 producción y 5 administración)
-
-|Centro de costes|Reparto primario|
-|--|--|
-|Aprovisionamiento|1.280.000|
-|Taller 1|2.150.000|
-|Taller 2|2.790.000|
-|Producción|8.060.000|
-|Administración|220.000|
-|Total|14.500.000|
-
-![img](../images/tema-4/ejemplos/solucion-ejercicio-subreparto-secciones-relacionadas.png)
-
-![img](../images/tema-4/ejemplos/solucion-ejercicio-subreparto-secciones-relacionadas-2.png)
-
 ## Valoración de la producción en curso
 
 Existen varios métodos, cada uno se podrá aplicar de forma más eficaz dependiendo de la tipología del proceso productivo (anque el más utilizado es el de la **producción equivalente**).
@@ -69,15 +51,6 @@ Existen varios métodos, cada uno se podrá aplicar de forma más eficaz dependi
 ### Ejemplo producción equivalente
 
 Hay un excel en el [campus virtual](https://campusvirtual.uva.es/mod/resource/view.php?id=1051912) que no entiendo.
-
-<!-- |Unidades|%||Existencias finales|
-|:--:|:--:|:--:|--|
-|4|0,25|1,00||
-|38|1,00|38,0|||
-|6|0,75|4,50|4|.5\*1.149,43=5.172,44|
-|Suma||43,50|
-
-Coste unitario: 50.000 / 43,5 = 1.149,43 -->
 
 ## Cómo afrontar las mermas
 
