@@ -7,6 +7,14 @@ Podemos dividir el análisis de costes en las siguientes cuatro etapas o fases:
 3. Imputación del coste de los factores al producto
 4. Cálculo de márgenes
 
+??? info "Márgenes"
+    ![img](../images/tema-5/margenes.png)
+
+    - El margen industrial es la diferencia entre los ingresos por las ventas y el coste de las mismas. El inventario de los productos terminados nos proporciona esta información. Es habitual que el margen se determine en términos porcentuales sobre el propio coste.
+    - El margen comercial, es la diferencia entre el margen y los costes de comercialización.
+    - Resultado de la explotación: se obtiene detrayendo del margen comercial los costes de administración y generales (seguridad, limpieza..)
+    - Resultado del ejercicio antes de impuestos: se determina restando al resultado anterior los resultados financieros.
+
 ## Los centros
 
 `Centro de compras (aprovisionamiento)`
@@ -27,7 +35,7 @@ Podemos dividir el análisis de costes en las siguientes cuatro etapas o fases:
 ### Problemas
 
 - Si hay interrelaciones entre distintas secciones **se establecerá un criterio de reparto previo**.
-- El autoconsumo no se repercute, se puede eliminar.
+- ==El autoconsumo no se repercute, se puede eliminar.==
 
 ## Valoración de la producción en curso
 
@@ -48,11 +56,26 @@ Existen varios métodos, cada uno se podrá aplicar de forma más eficaz dependi
 !!! note
     La producción terminada será el resultado de terminar las ^^unidades equivalentes del proceso anterior^^ más las ^^unidades empezadas y terminadas en el proceso^^ restando las ^^unidades equivalentes que queden al final de dicho proceso^^.
 
-### Ejemplo producción equivalente
+### Producción equivalente
 
-Hay un excel en el [campus virtual](https://campusvirtual.uva.es/mod/resource/view.php?id=1051912) que no entiendo.
+Distinguimos entre **producción terminada** y **producción realizada**.
+
+La **producción terminada** será el resultado de terminar las unidades equivalentes del proceso anterior más las unidades empezadas y terminadas en el proceso y, restar las unidades equivalentes que queden al final de dicho proceso
+
+la producción terminada será el resultado de terminar las unidades equivalentes del proceso anterior más las unidades empezadas y terminadas en el proceso y, restar las unidades equivalentes que queden al final de dicho proceso
+
+Hay un excel en el [campus virtual](https://campusvirtual.uva.es/mod/resource/view.php?id=1051912) de un ejemplo que no entiendo.
+
+Se tiene que cumplir `Existencias iniciales + Producción industrial o realizada = Existencias finales + Coste de la producción`
 
 ## Cómo afrontar las mermas
+
+Distinguimos entre:
+
+- Productos dañados: se venden a menor precio o se desechan
+- Productos defectuosos: pueden ser recuperados mediante algún trabajo adicional
+- Materiales de desecho: no pueden ser recuperados pero pueden tener un precio de venta (se asimilan a los subproductos)
+- Materiales de desperdicio: no tienen ningún valor.
 
 Son unidades de inventario que desaparecen o aparecen estropeadas.
 
@@ -69,3 +92,5 @@ Son unidades de inventario que desaparecen o aparecen estropeadas.
 
 !!! info "Indemnizaciones"
     Son ingresos del ejercicio, no reducen el coste de producción.
+
+`Ex. In. + Prod. industrial = Ex. Fin. + Coste de la producción + Unidades perdidas.`

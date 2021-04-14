@@ -4,7 +4,7 @@ Una misma empresa puede fabricar artículos muy diferentes, en procesos distinto
 
 - Sistema de costes por procesos (*Process Costing*) - utilizado en producciones homogéneas {>>producción en masa, cadenas de montaje<<}
     - Usado en industrias químicas, empresas textiles, industrias lácteas, siderúrgica, fabricación de vidrio, etc.
-- Sistema de costes por órdenes de fabricación (*Job-Order Costing*) -
+- Sistema de costes por órdenes de fabricación o por pedidos (*Job-Order Costing*)
 
 ## Principios
 
@@ -23,7 +23,7 @@ Las empresas cuya producción sea fácilmente clasificable en una gran diversida
 
 ### Fabricación de unidades independientes
 
-- Se utiliza cuando en un mismo producto se concnetran varios tipos de costes (avión)
+- Se utiliza cuando en un mismo producto se concentran varios tipos de costes (avión)
 - Se tienen que poder establecer sistemas específicos de control.
 - La unidad recogida recoge casi todos los costes en los que se han incurrido (excepto los costes de administración, que sólo se tendrán en cuenta si existe al mismo tiempo más de una unidad de producto).
 
