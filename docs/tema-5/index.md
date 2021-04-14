@@ -1,8 +1,10 @@
 # Sistema de contabilidad por procesos y por pedidos
 
-<!-- Sistema de costes por procesos (*Process Costing*)
+Una misma empresa puede fabricar artículos muy diferentes, en procesos distintos:
 
-Sistema de costes por órdenes de fabricación (*Job-Order Costing*) -->
+- Sistema de costes por procesos (*Process Costing*) - utilizado en producciones homogéneas {>>producción en masa, cadenas de montaje<<}
+    - Usado en industrias químicas, empresas textiles, industrias lácteas, siderúrgica, fabricación de vidrio, etc.
+- Sistema de costes por órdenes de fabricación (*Job-Order Costing*) -
 
 ## Principios
 
@@ -10,7 +12,7 @@ Sistema de costes por órdenes de fabricación (*Job-Order Costing*) -->
 - **Las unidades obtenidas son perfectamente sustituibles por otras**. Se puede asumir como hipótesis que todas las unidades han recibido la misma atención (^^han absorbido la misma cantidad de factores productivos^^).
 - El cálculo del coste se basa en el **principio de proporcionalidad**.
 
-Las empresas cuya producción sea fácilmente clasificable en una gran diversidad de tipos de productos y/o prestaciones (que se obtiene por unidades individuales o de un número reducido de unidades, un lote) utilizzan generalmente sistemas de costes **por órdenes de fabricación**.
+Las empresas cuya producción sea fácilmente clasificable en una gran diversidad de tipos de productos y/o prestaciones (que se obtiene por unidades individuales o de un número reducido de unidades, un lote) utilizan generalmente sistemas de costes **por órdenes de fabricación**.
 
 ## Sistemas de contabilidad por pedidos
 
@@ -19,7 +21,7 @@ Las empresas cuya producción sea fácilmente clasificable en una gran diversida
 - El pedido puede proceder directamente del cliente o de la dirección de la empresa.
 - Los costes indirectos se aplican a cada lote utilizando una clave de reparto (unidades fabricadas o producidas). El coste unitario se calculará dvididendo el coste total de producción entre el total de **unidades fabricadas de cada lote**.
 
-## Fabricación de unidades independientes
+### Fabricación de unidades independientes
 
 - Se utiliza cuando en un mismo producto se concnetran varios tipos de costes (avión)
 - Se tienen que poder establecer sistemas específicos de control.

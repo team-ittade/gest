@@ -42,3 +42,15 @@ Los presupuestos firmados con los clientes han sido:
 ![img](../images/tema-5/ejs/25/solucion-1.png)
 
 ![img](../images/tema-5/ejs/25/solucion-2.png)
+
+![img](../images/tema-5/ejs/25/solucion-3.png)
+
+![img](../images/tema-5/ejs/25/solucion-4.png)
+
+![img](../images/tema-5/ejs/25/solucion-5.png)
+
+![img](../images/tema-5/ejs/25/solucion-6.png)
+
+![img](../images/tema-5/ejs/25/solucion-7.png)
+
+![img](../images/tema-5/ejs/25/solucion-8.png)
