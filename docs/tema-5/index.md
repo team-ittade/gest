@@ -6,9 +6,9 @@ Una misma empresa puede fabricar artículos muy diferentes, en procesos distinto
     - Usado en industrias químicas, empresas textiles, industrias lácteas, siderúrgica, fabricación de vidrio, etc.
 - Sistema de costes por órdenes de fabricación o por pedidos (*Job-Order Costing*)
 
-## Principios
+## Sistema de contabilidad por procesos
 
-- Tienen como finalidad desarrollar las técnicas contables que garanticen la correcta asignación del coste de los factores a **producciones homogéneas**.
+- Tiene como finalidad desarrollar las técnicas contables que garanticen la correcta asignación del coste de los factores a **producciones homogéneas**.
 - **Las unidades obtenidas son perfectamente sustituibles por otras**. Se puede asumir como hipótesis que todas las unidades han recibido la misma atención (^^han absorbido la misma cantidad de factores productivos^^).
 - El cálculo del coste se basa en el **principio de proporcionalidad**.
 
