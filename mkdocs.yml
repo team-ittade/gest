@@ -29,7 +29,7 @@ nav:
       Ejercicios: tema-5/ejercicios.md
   - Tema 6:
       Teoría: tema-6/index.md
-    #   Ejercicios: tema-6/ejercicios.md
+      Ejercicios: tema-6/ejercicios.md
 
 repo_name: team-ittade/gest
 repo_url: https://github.com/team-ittade/gest
