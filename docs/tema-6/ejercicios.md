@@ -65,3 +65,7 @@ La nueva asignación de costes indirectos de producción a cada actividad es la 
 
 ![img](../images/tema-6/ejs/28/solucion-1.png)
 ![img](../images/tema-6/ejs/28/solucion-2.png)
+![img](../images/tema-6/ejs/28/solucion-3.png)
+![img](../images/tema-6/ejs/28/solucion-4.png)
+![img](../images/tema-6/ejs/28/solucion-5.png)
+![img](../images/tema-6/ejs/28/solucion-6.png)
