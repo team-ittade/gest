@@ -1,6 +1,6 @@
 # Ejercicios tema 6
 
-## `Ejercicio 27 - método abc`
+## `Ejercicio 27 - método ABC`
 
 La sociedad *Altas Bodegas de Castilla* calcula el coste de sus productos aplicando un modelo de costes por actividades (ABC). Fabrica dos productos; el producto K y el producto L. Las actividades se realizan en un único centro; FABRICA, estas son filtrado, procesado y pulido.
 
@@ -36,3 +36,32 @@ Respecto de los costes indirectos se sabe que:
 Carecería de toda lógica de gestión económica dejar de fabricar el producto K, del que se venden cuatro veces más unidades (el enunciado informa de la venta de **TODAS LAS UNIDADES**) y del que se obtiene un margen industrial un 148% superior al del producto L.
 
 Si la empresa tuviera que dejar de fabricar obligatoriamente un producto este sería L.
+
+## `Ejercicio 28: ABC`
+
+La empresa “ABECESA” procesa cuatro líneas básicas de productos. El proceso productivo se desarrolla en los departamentos de producción, administración y comercial. Dado que ha experimentado una fuerte reducción de sus beneficios, ha decidido implantar el sistema de costes ABC, por lo que ha procedido a revisar el sistema de costes aplicado.
+
+La información analítica muestra que los productos A y B son deficitarios, mientras que los productos C y D son excedentarios, si bien se ha sabido que los inmediatos competidores han optado por abandonar la producción de C y D.
+
+Datos correspondientes al último ejercicio:
+
+![img](../images/tema-6/ejs/28/tabla-1.png)
+
+Los costes indirectos de producción (CIP) fueron de 13.475.000 € y son distribuidos en función del coste de la MOD incorporado a cada producto.
+
+Del análisis de los trabajos desarrollados en el proceso de producción se han identificado las siguientes actividades significativas, con sus correspondientes inductores de costes (cost-drivers), así como el nivel de actividad desarrollado por los productos:
+
+![img](../images/tema-6/ejs/28/tabla-2.png)
+
+La nueva asignación de costes indirectos de producción a cada actividad es la siguiente:
+
+![img](../images/tema-6/ejs/28/tabla-3.png)
+
+**Con los datos anteriores, se pide:**
+
+1. **Coste unitario de producción imputando los costes indirectos en función de los indirectos**
+2. **Nuevo coste unitario de producción por el sistema ABC**
+3. **Comparación de ambos sistemas**
+
+![img](../images/tema-6/ejs/28/solucion-1.png)
+![img](../images/tema-6/ejs/28/solucion-2.png)

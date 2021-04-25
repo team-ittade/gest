@@ -76,3 +76,14 @@ Los **cost-drivers** son elegidos en función del nivel en el que se encuentra l
 6. Cálculo del coste *completo* del producto.
 7. Determinación del método de evaluación del valor añadido por las actividades.
 8. Determinación de los métodos de control.
+
+### Ventajas
+
+- ✔️ Mejora la adopción de decisiones
+- ✔️ Se controlan las actividades de proceso
+- ✔️ Información integrada de la actividad
+
+### Desventajas
+
+- ❌ Dividir la actividad en activiades que se solapan
+- ❌ Complejidad administrativa
