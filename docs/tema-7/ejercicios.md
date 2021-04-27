@@ -28,3 +28,24 @@ Se han obtenido durante el proceso de fabricación 10.000 Kgs. del producto A y 
 ![img](../images/tema-6/ejs/29/solucion-2.png)
 ![img](../images/tema-6/ejs/29/solucion-3.png)
 ![img](../images/tema-6/ejs/29/solucion-4.png)
+
+## `Ejercicio 30 - producción conjunta`
+
+Norma 5ª de la Resolución ICAC 14‐4‐2015
+La compañía T1, con cuatro centros de trabajo que actúan por este orden, en cadena, Tamizado, Horneado, Secado y Empaquetado presenta el siguiente estado de costes totales en euros para cada uno de ellos, en los que se han incorporado los costes directos e indirectos:
+
+Tamizado: 2.150.000; Horneado: 1.350.000; Secado: 3.250.000; Empaquetado: 999.800
+
+Al finalizar las actividades del segundo centro, Horneado, se producen de forma inexorable dos coproductos, A y B, un subproducto y, un residuo. Cada uno, respectivamente, con los Valores Netos Realizables de 2.000.000, 1.400.000, 600.000, y 140.000 euros.
+
+**La sociedad desea saber la imputación de costes, en el punto de separación, a cada componente generado en su proceso productivo, si:**
+
+1. No se considerase ningún componente de importancia secundaria.
+2. Se considerara el residuo de importancia secundaria.
+3. No se considerase ningún componente de importancia secundaria, pero el residuo tuviese un coste se retirada de 140.000€.
+4. Se considerara de importancia secundaria al subproducto y al residuo.
+
+**La sociedad opta por valorar por su Valor Neto Realizable todo componente de importancia secundaria.**
+
+![img](../images/tema-6/ejs/30/solucion-1.png)
+![img](../images/tema-6/ejs/30/solucion-2.png)
