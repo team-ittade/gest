@@ -32,6 +32,7 @@ Se han obtenido durante el proceso de fabricación 10.000 Kgs. del producto A y 
 ## `Ejercicio 30 - producción conjunta`
 
 Norma 5ª de la Resolución ICAC 14‐4‐2015
+
 La compañía T1, con cuatro centros de trabajo que actúan por este orden, en cadena, Tamizado, Horneado, Secado y Empaquetado presenta el siguiente estado de costes totales en euros para cada uno de ellos, en los que se han incorporado los costes directos e indirectos:
 
 Tamizado: 2.150.000; Horneado: 1.350.000; Secado: 3.250.000; Empaquetado: 999.800
@@ -49,3 +50,10 @@ Al finalizar las actividades del segundo centro, Horneado, se producen de forma 
 
 ![img](../images/tema-6/ejs/30/solucion-1.png)
 ![img](../images/tema-6/ejs/30/solucion-2.png)
+![img](../images/tema-6/ejs/30/solucion-3.png)
+![img](../images/tema-6/ejs/30/solucion-4.png)
+
+Para más info:
+
+- `2021-04-27`
+- `2021-04-28`
