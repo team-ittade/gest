@@ -24,10 +24,10 @@ Se han obtenido durante el proceso de fabricación 10.000 Kgs. del producto A y 
 2. **Fichas de inventario**
 3. **Coste unitario de los productos, subproductos y residuos**
 
-![img](../images/tema-6/ejs/29/solucion-1.png)
-![img](../images/tema-6/ejs/29/solucion-2.png)
-![img](../images/tema-6/ejs/29/solucion-3.png)
-![img](../images/tema-6/ejs/29/solucion-4.png)
+![img](../images/tema-7/ejs/29/solucion-1.png)
+![img](../images/tema-7/ejs/29/solucion-2.png)
+![img](../images/tema-7/ejs/29/solucion-3.png)
+![img](../images/tema-7/ejs/29/solucion-4.png)
 
 ## `Ejercicio 30 - producción conjunta`
 
@@ -48,12 +48,72 @@ Al finalizar las actividades del segundo centro, Horneado, se producen de forma 
 
 **La sociedad opta por valorar por su Valor Neto Realizable todo componente de importancia secundaria.**
 
-![img](../images/tema-6/ejs/30/solucion-1.png)
-![img](../images/tema-6/ejs/30/solucion-2.png)
-![img](../images/tema-6/ejs/30/solucion-3.png)
-![img](../images/tema-6/ejs/30/solucion-4.png)
+![img](../images/tema-7/ejs/30/solucion-1.png)
+![img](../images/tema-7/ejs/30/solucion-2.png)
+![img](../images/tema-7/ejs/30/solucion-3.png)
+![img](../images/tema-7/ejs/30/solucion-4.png)
 
 Para más info:
 
 - `2021-04-27`
 - `2021-04-28`
+
+## `Ejercicio 31 - producción conjunta`
+
+_Norma 5ª de la Resolución ICAC 14‐4‐2015._
+
+La empresa “Quimiflux S.A.U.” utiliza en su proceso productivo un compuesto químico denominado Ce200 como única materia prima.
+
+En una fase inicial denominada Destilado se obtiene un Producto A y un Producto B. Además, la sección de destilado proporciona un subproducto y un residuo R.
+
+Los productos A y B continúan el proceso productivo. A, se procesa en la sección Ionizado y el B en la de Conglomerado. En la sección de IONIZADO se añaden materias auxiliares.
+
+Los productos A y B, finalmente se envasan en la sección de envasado.
+
+Por cada unidad, equivalente a un litro, de Ce200 se obtienen 600 centímetros cúbicos de A, 300 de B, 10 de residuo y el resto de subproducto.
+
+Los costes de personal directamente imputados al producto han sido, por secciones:
+
+![img](../images/tema-7/ejs/31/tabla-1.png)
+
+El proceso productivo carece de mermas. Tampoco se ha detectado diferencias de inventario. El precio de la materia prima ha sido de 2,5€/udad.
+
+Los inventarios son:
+
+![img](../images/tema-7/ejs/31/tabla-2.png)
+
+El coste de los envases ha sido de 2€. Cada litro de Producto A, o B, se envasan en un recipiente único de igual capacidad, mientras que el subproducto y el residuo son retirados, sin ser envasados, por un cliente.
+
+Las adquisiciones de materias auxiliares han sido de 90.000 uds. Su precio no ha variado respecto del ejercicio anterior.
+
+El precio de venta del Producto A es de 9€ y el del producto B de 7€. En cuanto al subproducto de 2€ y el residuo de 1€.
+
+En cuanto al resto de costes, por secciones, se han producido los siguientes:
+
+![img](../images/tema-7/ejs/31/tabla-3.png)
+
+La sección de envasado reparte sus costes en función de las unidades envasadas.
+
+La actividad comercial de la empresa se ha externalizado, por ello se ha facturado un total de 58.000€.
+
+El coste de los residuos no ha variado desde el ejercicio anterior. Lo mismo ha ocurrido con los subproductos.
+
+**Se pide:**
+
+- **Diagrama del proceso.**
+- **Inventarios.**
+- **Determinar el resultado de la actividad de 20XX.**
+- **Determinar el impacto sobre el resto de productos y subproductos si el residuo hubiese tenido un coste de retirada de 120.000€.**
+- **Determinar el impacto sobre el resto de productos y subproductos si el residuo hubiese tenido un coste considerado de importancia secundaria.**
+
+![img](../images/tema-7/ejs/31/solucion-1.png)
+![img](../images/tema-7/ejs/31/solucion-2.png)
+![img](../images/tema-7/ejs/31/solucion-3.png)
+![img](../images/tema-7/ejs/31/solucion-4.png)
+![img](../images/tema-7/ejs/31/solucion-5.png)
+![img](../images/tema-7/ejs/31/solucion-6.png)
+![img](../images/tema-7/ejs/31/solucion-7.png)
+
+Para más info:
+
+- `2021-04-29`

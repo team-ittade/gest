@@ -4,7 +4,7 @@
 
 La estadística de costes del reparto primario de una empresa es la siguiente:
 
-![img](../images/tema-4/ejercicios/21/tabla-1.png)
+![img](../images/tema-4/ejs/21/tabla-1.png)
 
 El subreparto de los talleres se realiza de la siguiente forma:
 
@@ -15,15 +15,15 @@ producción y 5 para administración.
 
 **Se pide realizar el reparto secundario.**
 
-![img](../images/tema-4/ejercicios/21/solucion-1.png)
+![img](../images/tema-4/ejs/21/solucion-1.png)
 
-![img](../images/tema-4/ejercicios/21/solucion-2.png)
+![img](../images/tema-4/ejs/21/solucion-2.png)
 
 ## `Ejercicio 22 - Subreparto entre secciones relacionadas`
 
 La estadística de costes del reparto primario de una empresa es la siguiente:
 
-![img](../images/tema-4/ejercicios/22/tabla-inicial.png)
+![img](../images/tema-4/ejs/22/tabla-inicial.png)
 
 El subreparto de lost alleres se realiza de la siguiente forma:
 
@@ -32,11 +32,11 @@ El subreparto de lost alleres se realiza de la siguiente forma:
 
 **Se pide realizar el reparto secundario.**
 
-![img](../images/tema-4/ejercicios/22/solucion-1.png)
+![img](../images/tema-4/ejs/22/solucion-1.png)
 
-![img](../images/tema-4/ejercicios/22/solucion-2.png)
+![img](../images/tema-4/ejs/22/solucion-2.png)
 
-![img](../images/tema-4/ejercicios/22/solucion-3.png)
+![img](../images/tema-4/ejs/22/solucion-3.png)
 
 ## `Ejercicio 23 - Subreparto`
 
@@ -44,7 +44,7 @@ A partir de una única materia prima la empresa DUFE S.A., elabora dos productos
 
 Datos relativos a inventarios (Valoración: criterio `FIFO`):
 
-![img](../images/tema-4/ejercicios/23/tabla-1.png)
+![img](../images/tema-4/ejs/23/tabla-1.png)
 
 En el almacén de materias primas se prevé una pérdida del 1,5 % de la cantidad comprada. Se gestionan en el centro aprovisionamiento. Al final del período, al realizar el inventario físico, se observa que las existencias finales reales de los productos terminados son un 2 % inferior a las contables.
 
@@ -53,7 +53,7 @@ En el almacén de materias primas se prevé una pérdida del 1,5 % de la cantida
 
 Datos relativos a costes: Las compras de materia primas fueron 80.000 uds. a 80 u.m./ud., consumiéndose 78.000 uds.
 
-![img](../images/tema-4/ejercicios/23/tabla-2.png)
+![img](../images/tema-4/ejs/23/tabla-2.png)
 
 - La sección auxiliar de Mantenimiento trabajó 800 h-h que se distribuyeron para Supervisión (240 h-h), Depurado (360 h-h), Finalizado (160 h-h) y Comercial (40 h-h).
 - La sección auxiliar de Supervisión realizó un total de 4.000 controles: 480 para ella misma, 320 para Mantenimiento y 1.600 para cada sección de transformación.
@@ -69,15 +69,15 @@ Los costes comerciales se reparten a los productos según las unidades vendidas.
 4. **Coste unitario de todos los productos.**
 5. **Cuadro de márgenes y resultados.**
 
-![img](../images/tema-4/ejercicios/23/solucion-1.png)
+![img](../images/tema-4/ejs/23/solucion-1.png)
 
-![img](../images/tema-4/ejercicios/23/solucion-2.png)
+![img](../images/tema-4/ejs/23/solucion-2.png)
 
-![img](../images/tema-4/ejercicios/23/solucion-3.png)
+![img](../images/tema-4/ejs/23/solucion-3.png)
 
-![img](../images/tema-4/ejercicios/23/solucion-4.png)
+![img](../images/tema-4/ejs/23/solucion-4.png)
 
-![img](../images/tema-4/ejercicios/23/solucion-5.png)
+![img](../images/tema-4/ejs/23/solucion-5.png)
 
 ## `Ejercicio 24 - Valoración de productos en curso (producción equivalente)`
 
@@ -90,9 +90,9 @@ Los costes en los que se ha incurrido en el período son de 40.000€ de materia
 
 **Se pide la valoración del inventario de productos en curso de ÑIU S.A.**
 
-![img](../images/tema-4/ejercicios/24/solucion-1.png)
+![img](../images/tema-4/ejs/24/solucion-1.png)
 
-![img](../images/tema-4/ejercicios/24/solucion-2.png)
+![img](../images/tema-4/ejs/24/solucion-2.png)
 
 ## `Ejercicio 25 - Reparto primario y secundario`
 
@@ -102,11 +102,11 @@ La materia prima X se empieza procesando en la Fase 1 obteniendo un producto sem
 
 En el centro de Acabado se incorporan los envases y se obtienen los productos P (1 ud. del semiterminado R) y Q (1 ud. del semiterminado R y 1 ud. del semiterminado S).
 
-![img](../images/tema-4/ejercicios/25/tabla-1.png)
+![img](../images/tema-4/ejs/25/tabla-1.png)
 
 La sección de Mantenimiento trabajó 2.100 h-h, que se reparten por partes iguales entre los centros operativos principales.
 
-![img](../images/tema-4/ejercicios/25/tabla-2.png)
+![img](../images/tema-4/ejs/25/tabla-2.png)
 
 Se mantienen los precios y costes del período anterior. En este período se consumen 20.000 kgs. de materia prima X. No quedan existencias de materias auxiliares, ni de materia prima X, comprando lo que se vaya a consumir a 15 u.m./kg. de materias auxiliares y 60 u.m./kg. de materia prima X.
 
@@ -124,24 +124,24 @@ En este período la empresa aumenta sus ventas hasta el punto de no tener ningun
 4. **Inventarios permanentes**
 5. **Márgenes y resultados**
 
-![img](../images/tema-4/ejercicios/25/solucion-1.png)
+![img](../images/tema-4/ejs/25/solucion-1.png)
 
-![img](../images/tema-4/ejercicios/25/solucion-2.png)
+![img](../images/tema-4/ejs/25/solucion-2.png)
 
-![img](../images/tema-4/ejercicios/25/solucion-3.png)
+![img](../images/tema-4/ejs/25/solucion-3.png)
 
-![img](../images/tema-4/ejercicios/25/solucion-4.png)
+![img](../images/tema-4/ejs/25/solucion-4.png)
 
-![img](../images/tema-4/ejercicios/25/solucion-5.png)
+![img](../images/tema-4/ejs/25/solucion-5.png)
 
-![img](../images/tema-4/ejercicios/25/solucion-6.png)
+![img](../images/tema-4/ejs/25/solucion-6.png)
 
-![img](../images/tema-4/ejercicios/25/solucion-7.png)
+![img](../images/tema-4/ejs/25/solucion-7.png)
 
-![img](../images/tema-4/ejercicios/25/solucion-8.png)
+![img](../images/tema-4/ejs/25/solucion-8.png)
 
-![img](../images/tema-4/ejercicios/25/solucion-9.png)
+![img](../images/tema-4/ejs/25/solucion-9.png)
 
-![img](../images/tema-4/ejercicios/25/solucion-10.png)
+![img](../images/tema-4/ejs/25/solucion-10.png)
 
-![img](../images/tema-4/ejercicios/25/solucion-11.png)
+![img](../images/tema-4/ejs/25/solucion-11.png)
