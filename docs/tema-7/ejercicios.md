@@ -62,7 +62,7 @@ Para más info:
 
 _Norma 5ª de la Resolución ICAC 14‐4‐2015._
 
-La empresa “Quimiflux S.A.U.” utiliza en su proceso productivo un compuesto químico denominado Ce200 como única materia prima.
+La empresa "Quimiflux S.A.U." utiliza en su proceso productivo un compuesto químico denominado Ce200 como única materia prima.
 
 En una fase inicial denominada Destilado se obtiene un Producto A y un Producto B. Además, la sección de destilado proporciona un subproducto y un residuo R.
 
@@ -121,3 +121,39 @@ Para más info:
 - `2021-04-29`
 - `2021-04-30` (excel, no incluido)
 - `2021-05-03` (excel, no incluido)
+
+## `Ejercicio 32 - producción conjunta`
+
+_Norma 5ª de la Resolución ICAC 14‐4‐2015._
+
+La empresa "Resinas Belgas S.A." utiliza en su proceso productivo una resina especial como única materia prima. En la fase inicial de `DESTILACIÓN` se añaden las materias primas y los aditivos. Tras el destilado se obtiene como subproducto, "pez", residuos, "sarros", y los productos "trementina" y "colofonia". Los productos continúan el productivo hasta la sección de `DEPURADO`.
+
+En el centro de `DEPURADO`, se filtran los productos, "trementina" y "colofonia", y los costes se reparten en función de los litros filtrados de cada uno de ellos.
+
+El subproducto tiene una importancia secundaria, por lo que en aplicación de la Resolución del ICAC relativa al coste de producción, la empresa lo valora por su valor neto realizable. Los sarros tienen un coste de retirada de 100.000€
+
+La sección de ENVASADO, finaliza el proceso de producción. En este centro se envasan los productos en dos formatos: la "trementina" en botellas de litro y "colofonia" en barriles de 20 litros. Los costes del centro de envasado se reparten utilizando como unidad de obra los litros procesados de los productos.
+
+En el inventario de "trementina", ya envasada, ha existido una diferencia de inventario no prevista del 10% del coste de ventas. El proceso productivo carece de mermas. El precio de la resina ha sido de 4,25€/litro.
+
+Por cada litro de resina se obtienen, se obtienen 400 cc de "trementina", 300 de "colofonia", 100 de residuo y el resto de subproducto. Los aditivos, se añaden en el proceso en una proporción del 100 cc por cada litro resina consumida. La mano de obra directa ha sido:
+
+![img](../images/tema-7/ejs/32/tabla-1.png)
+
+En cuanto al resto de costes, por secciones, se han producido los siguientes:
+
+![img](../images/tema-7/ejs/32/tabla-2.png)
+
+El coste de los envases barriles ha sido de 8 €. El precio de venta trementina es de 15 €/ltr, el de colofonia de 20 €/ltr, el de pez de 5€/ltr. No existe producción pendiente de terminar.
+
+Los inventarios facilitados por la empresa son:
+
+![img](../images/tema-7/ejs/32/tabla-3.png)
+
+El coste de los residuos no ha variado desde el ejercicio anterior. Lo mismo ha ocurrido con los subproductos. Todos los inventarios se valoran por el FIFO.
+
+**Se pide el coste de venta unitario de los coproductos.**
+
+![img](../images/tema-7/ejs/32/solucion-1.png)
+![img](../images/tema-7/ejs/32/solucion-2.png)
+![img](../images/tema-7/ejs/32/solucion-3.png)
