@@ -157,3 +157,12 @@ El coste de los residuos no ha variado desde el ejercicio anterior. Lo mismo ha 
 ![img](../images/tema-7/ejs/32/solucion-1.png)
 ![img](../images/tema-7/ejs/32/solucion-2.png)
 ![img](../images/tema-7/ejs/32/solucion-3.png)
+![img](../images/tema-7/ejs/32/solucion-4.png)
+![img](../images/tema-7/ejs/32/solucion-5.png)
+![img](../images/tema-7/ejs/32/solucion-6.png)
+![img](../images/tema-7/ejs/32/solucion-7.png)
+
+Para más info:
+
+- `2021-05-04`
+- `2021-05-05`
