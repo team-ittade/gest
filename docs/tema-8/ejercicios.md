@@ -30,4 +30,4 @@ En cuanto a los suministros y otros servicios, la empresa tiene contratadas tari
 
 ![img](../images/tema-8/ejs/34/solucion-1.png)
 ![img](../images/tema-8/ejs/34/solucion-2.png)
-![img](../images/tema-8/ejs/34/solucion-4.png)
+![img](../images/tema-8/ejs/34/solucion-3.png)
