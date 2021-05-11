@@ -8,8 +8,8 @@ Del primero se han fabricado 800 unidades y del segundo 200. Todas las unidades 
 
 Respecto de los costes directos se sabe que:
 
-- K consume 3 litros de materia prima “M” por unidad. El coste por litro de “M” es de 1,5 €/lt.
-- L consume 2 litros de materia prima “M” por unidad.
+- K consume 3 litros de materia prima "M" por unidad. El coste por litro de "M" es de 1,5 €/lt.
+- L consume 2 litros de materia prima "M" por unidad.
 - La mano de obra directa de una unidad de K exige un total de 1,5 horas
 - La mano de obra directa de una unidad de L exige un total de 2 horas.
 - El coste por hora de mano de obra directa ha ascendido a 12,5 €/h
@@ -39,7 +39,7 @@ Si la empresa tuviera que dejar de fabricar obligatoriamente un producto este se
 
 ## `Ejercicio 28: ABC`
 
-La empresa “ABECESA” procesa cuatro líneas básicas de productos. El proceso productivo se desarrolla en los departamentos de producción, administración y comercial. Dado que ha experimentado una fuerte reducción de sus beneficios, ha decidido implantar el sistema de costes ABC, por lo que ha procedido a revisar el sistema de costes aplicado.
+La empresa "ABECESA" procesa cuatro líneas básicas de productos. El proceso productivo se desarrolla en los departamentos de producción, administración y comercial. Dado que ha experimentado una fuerte reducción de sus beneficios, ha decidido implantar el sistema de costes ABC, por lo que ha procedido a revisar el sistema de costes aplicado.
 
 La información analítica muestra que los productos A y B son deficitarios, mientras que los productos C y D son excedentarios, si bien se ha sabido que los inmediatos competidores han optado por abandonar la producción de C y D.
 
