@@ -21,3 +21,7 @@ a.internal-link::after {
     */
     content: "\00A0↪";
 }
+
+body {
+    text-align: justify;
+}
