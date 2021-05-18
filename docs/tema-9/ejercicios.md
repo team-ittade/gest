@@ -42,3 +42,13 @@ El coste del centro para 16.000 unidades está presupuestado en 83.520€. De la
 
 ![img](../images/tema-9/ejs/37/solucion-1.png)
 ![img](../images/tema-9/ejs/37/solucion-2.png)
+
+## `Ejercicio 38 - costes estándar`
+
+La empresa "BAGING S.A." se dedica al envasado de un único producto "As14" para un tercero. Para ello utiliza una sección, PACK. El producto se envasa en dos formatos, uno, un bidón de 10 litros y otro, una botella de 800 centímetros cúbicos.
+
+Del total envasado, un 30% se destina al embotellado, botella de 800 cc, el resto se envasa en los bidones. Está previsto que se envasen 16.000.000 de litros de "As14", con un precio de compra que será de 4,8€/litro. El tiempo de envasado es de 24 segundos para la botella y de 48 segundos para el bidón. El coste de la sección PACK se presupuesta en 5.768.000€. Precio estimado de los envases 2.5€ para la botella y de 7€ para el bidón.
+
+Los datos reales revelan que se han adquirido 19.200.000 litros de "As14". Se han trabajado 67.000 horas, 48.000 en botellas 19.000 en bidones; y el coste ha sido de 6.633.000€. Los inventarios han sido los siguientes:
+
+**Se pide el cálculo de cotes estándar y desviaciones.**
