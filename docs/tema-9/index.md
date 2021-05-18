@@ -87,3 +87,18 @@ Por lo tanto la desviación total sería igual a la diferencia entre el coste re
 ![img](../images/tema-9/teoria/desviaciones.png)
 
 En la práctica se acumulan la desviación económica y la mixta.
+
+## Signo
+
+Partiendo de la convención de que del coste real (Kr) se deduce el coste estándar (Ks), es posible establecer las siguientes conclusiones:
+
+- **Desviación Positiva**: Kr > Ks → Aumento de Gastos o disminución de beneficios (reales sobre previstos). Desviación de naturaleza **deudora**.
+- **Desviación Negativa**: Kr < Ks → Disminución de gastos o aumento de beneficios (reales sobre previstos). Desviación de naturaleza **acreedora**.
+
+Desviación total: $D_{tec}+D_{ec}=D_{total}=Kr-Ks$
+
+## Desviaciones en costes indirectos de producción
+
+La desviación aparece cuando la actividad real difiere de la estándar para la producción realmente obtenida.
+
+**Mira, esto ya no merece la pena. Paso de seguir escribiendo esta mierda. Nadie se va a leer esta mierda, vete a leerte el [PDF](https://campusvirtual.uva.es/mod/resource/view.php?id=1078525) del campus mejor.**{.red}

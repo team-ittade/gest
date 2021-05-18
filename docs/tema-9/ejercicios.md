@@ -25,3 +25,20 @@ En el ejercicio actual se ha fabricado 18.000 patinetes. Se han realizado 35.000
 **Analice las desviaciones.**
 
 ![img](../images/tema-9/ejs/36/solucion-1.png)
+![img](../images/tema-9/ejs/36/solucion-2.png)
+![img](../images/tema-9/ejs/36/solucion-3.png)
+
+## `Ejercicio 37 - cóstes estándar`
+
+La empresa "PIM-PAM" se dedica a la fabricación de rifles de precisión, fabrica dos modelos diferentes el Short y el Long. La empresa aplica un modelo de costes estándar.
+
+En la sección de engatillado el modelo Short debe ser sometido a 3 ajustes. El otro modelo a 5.
+
+En el ejercicio actual se han fabricado 17.500 unidades que han sido sometidas a 64.100 ajustes. El coste del centro de engatillado ha sido de 99.355€
+
+El coste del centro para 16.000 unidades está presupuestado en 83.520€. De la fabricación se destina un 70% al modelo Short y el resto al Long.
+
+**Comente y analice las desviaciones de la empresa.**
+
+![img](../images/tema-9/ejs/37/solucion-1.png)
+![img](../images/tema-9/ejs/37/solucion-2.png)
