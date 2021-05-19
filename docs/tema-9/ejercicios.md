@@ -51,4 +51,14 @@ Del total envasado, un 30% se destina al embotellado, botella de 800 cc, el rest
 
 Los datos reales revelan que se han adquirido 19.200.000 litros de "As14". Se han trabajado 67.000 horas, 48.000 en botellas 19.000 en bidones; y el coste ha sido de 6.633.000€. Los inventarios han sido los siguientes:
 
+![img](../images/tema-9/ejs/38/tabla-1.png)
+
 **Se pide el cálculo de cotes estándar y desviaciones.**
+
+![img](../images/tema-9/ejs/38/solucion-1.png)
+![img](../images/tema-9/ejs/38/solucion-2.png)
+![img](../images/tema-9/ejs/38/solucion-3.png)
+![img](../images/tema-9/ejs/38/solucion-4.png)
+![img](../images/tema-9/ejs/38/solucion-5.png)
+![img](../images/tema-9/ejs/38/solucion-6.png)
+![img](../images/tema-9/ejs/38/solucion-7.png)
