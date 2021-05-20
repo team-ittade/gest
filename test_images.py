@@ -38,6 +38,7 @@ def get_image_mapping():
         if len(files) != 1:
             print(image, f"has {len(files)} files")
 
+    print(f"{len(images_to_files.keys())}-{len(image_files)}")
     non_included_images = set(images_to_files.keys()) - set(image_files)
     print(non_included_images)
 

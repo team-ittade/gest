@@ -62,3 +62,36 @@ Los datos reales revelan que se han adquirido 19.200.000 litros de "As14". Se ha
 ![img](../images/tema-9/ejs/38/solucion-5.png)
 ![img](../images/tema-9/ejs/38/solucion-6.png)
 ![img](../images/tema-9/ejs/38/solucion-7.png)
+
+## `Ejercicio 39 - costes estándar`
+
+La empresa industrial CASOSA transforma la materia prima P en la Fase 1, de donde sale convertida en el producto terminado S.
+
+`Datos estándares`
+
+Esta empresa realiza un estudio técnico de las condiciones esperadas para su proceso y establece los siguientes estándares (para una producción de 20.000 uds. de S):
+
+- La materia prima tiene un coste de adquisición de 70 u.m./kg. y un suplemento por coste específico de Aprovisionamiento de 6 u.m./kg.
+- Cada unidad de producto terminado S debe incorporar 1 kg. de materia prima.
+- La tasa horaria por unidad de producto y el coste horario son los siguientes:
+    - MOD: 0,04 h-h/ud. a 600 u.m./h-h
+    - Fase 1: 0,025 h-m/ud. a 1.000 u.m./h-m
+- Los costes comerciales y de administración presupuestados son: 200.000 u.m. y 115.000 u.m., respectivamente.
+
+`Datos reales`
+
+- No hay ningún tipo de existencia inicial.
+- Compra 20.000 kgs. de materia prima a 72 u.m./kg. y consume 18.000 kgs.
+- La MOD trabajada 750 h-h y su coste total es de 461.250 u.m.
+- Las instalaciones de la Fase 1 funcionan durante 490 h-m.
+- La producción es de 19.000 uds. y las ventas son 15.000 uds. a 200 u.m./ud.
+
+**Se pide:**
+
+1. **Coste estándar unitario de producción de S.**
+2. **Inventarios permanentes.**
+3. **Cálculo de las desviaciones.**
+4. **Cuadro de márgenes y resultados.**
+
+**Lo ha resuelto en sucio, no ha llegado a mostrarlo en limpio.**
+{.magenta}
