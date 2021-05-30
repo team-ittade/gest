@@ -1,7 +1,6 @@
 # Contabilidad de gestión
 
 - Profesor: Jose Luis Mínguez Conde (minguez@eco.uva.es)
-- [Link webex](https://universidaddevalladolid.webex.com/universidaddevalladolid/j.php?MTID=mbb6e803c00a6016ff905673b76d9af56){: .elink}
 - [Guía docente](https://alojamientos.uva.es/guia_docente/uploads/2020/466/45403/1/Documento.pdf){: .elink}
 - [Campus virtual](https://campusvirtual.uva.es/course/view.php?id=31854){: .elink}
 
